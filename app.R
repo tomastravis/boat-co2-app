@@ -137,7 +137,7 @@ server <- function(input, output, session) {
       value_box(
         title = "Nautical Miles",
         value = route_info$nautical_miles,
-        #showcase = bsicons::bs_icon("bar-chart", fallback = icon("chart-bar")),
+        showcase = bsicons::bs_icon("bar-chart", fallback = icon("chart-bar")),
         theme = "teal"
       )
     })
@@ -146,7 +146,7 @@ server <- function(input, output, session) {
       value_box(
         title = "Fuel Consumption (kg)",
         value = route_info$total_fuel_consumption,
-        #showcase = bsicons::bs_icon("fuel-pump", fallback = icon("gas-pump")),
+        showcase = bsicons::bs_icon("fuel-pump", fallback = icon("gas-pump")),
         theme = "orange"
       )
     })
@@ -155,7 +155,7 @@ server <- function(input, output, session) {
       value_box(
         title = "CO2 Emissions (kg)",
         value = route_info$total_emissions,
-        #showcase = bsicons::bs_icon("cloud", fallback = icon("cloud")),
+        showcase = bsicons::bs_icon("cloud", fallback = icon("cloud")),
         theme = "red"
       )
     })
