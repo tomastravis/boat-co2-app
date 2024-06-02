@@ -6,6 +6,9 @@ source("utils/helper_functions.R")
 network <- fread(here("data", "network.csv"), stringsAsFactors = FALSE)
 cluster_coordinates <- fread(here("data", "cluster_coordinates.csv"), stringsAsFactors = FALSE)
 boat_co2_data_list <- fread(here("data", "boat_co2_data_list.csv"), stringsAsFactors = FALSE)
+ports_data <- fread(here("data","ports_data.csv"), stringsAsFactors = FALSE)
+port_names <- unique(ports_data$PORT)
+boat_names <- unique(boat_co2_data_list$name)
 
 # Select necessary columns from the network data
 nn <- dplyr::select(network, cluster, lag_cluster)

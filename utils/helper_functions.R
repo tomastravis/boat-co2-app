@@ -19,6 +19,12 @@ library(tidyverse)   # For data manipulation and visualization
 # Load Haversine distance function
 source("utils/dtHaversine_function.R")
 
+# Load the CSV file and extract unique boat names and port names
+boat_co2_data_list <- fread("data/boat_co2_data_list.csv")
+boat_names <- unique(boat_co2_data_list$name)
+ports_data <- fread("data/ports_data.csv")  # Assuming you have a CSV file with port data
+port_names <- unique(ports_data$PORT)
+
 ### Shortest route function
 find_route <- function(graph, V1, V2, extra_distance) {
   # Find shortest path between two nodes in a graph
@@ -54,8 +60,8 @@ find_route <- function(graph, V1, V2, extra_distance) {
 }
 
 ### Function to plot the map with the route
-map_route <- function(x, boat_name) {
-  route <- x[[1]]  # Extract route from the input
+map_route <- function(x, boat_name, start_coords, end_coords) {
+  route <- x[[1]]
   
   # Find the relevant boat data from boat_co2_data_list using the boat name
   boat_data <- boat_co2_data_list[boat_co2_data_list$name == boat_name, ]
@@ -76,7 +82,7 @@ map_route <- function(x, boat_name) {
   
   # Create a Leaflet map object
   route_map <- leaflet(route) %>%
-    addTiles()  # Add default OpenStreetMap map tiles
+    addTiles()
   
   # Add polylines for each segment of the route
   for (i in 1:nrow(route)) {
@@ -84,33 +90,27 @@ map_route <- function(x, boat_name) {
       addPolylines(
         lng = c(route$lon[i], route$lon_1[i]),
         lat = c(route$lat[i], route$lat_1[i]),
-        weight = 1  # Set the weight of the polyline
+        weight = 1
       )
   }
   
-  # Calculate total fuel consumption and emissions
+  # Add markers for the start and end points of the route
+  route_map <- route_map %>%
+    addCircleMarkers(lng = start_coords[1], lat = start_coords[2], color = "green", radius = 5, label = "Start Point") %>%
+    addCircleMarkers(lng = end_coords[1], lat = end_coords[2], color = "red", radius = 5, label = "End Point")
+  
   total_fuel_consumption <- fuel_consumption * x[[2]]
   total_emissions <- emissions * x[[2]]
   
-  # Add markers for the start and end points of the route
-  route_map <- route_map %>%
-    addCircleMarkers(lng = route$lon[1], lat = route$lat[1]) %>%
-    addCircleMarkers(lng = route$lon[nrow(route)], lat = route$lat[nrow(route)], color = "Red") %>%
-    addPopups(
-      lng = mean(route$lon, na.rm = TRUE),
-      lat = mean(route$lat, na.rm = TRUE),
-      popup = paste(
-        x[[2]], "nautical miles","<br>",
-        "Fuel Consumption (kg):", total_fuel_consumption, "<br>",
-        "CO2 Emissions (kg):", total_emissions, "<br>",
-        "IMO Number:", my_imo, "<br>",
-        "Boat Name:", boat_name
-      )
-    )
-  
-  # Return the map object
-  return(route_map)
+  list(
+    map = route_map,
+    nautical_miles = x[[2]],
+    total_fuel_consumption = total_fuel_consumption,
+    total_emissions = total_emissions
+  )
 }
+
+
 
 ### Function to find the closest cluster/node in a graph
 find_closest_cluster <- function(lon, lat) {

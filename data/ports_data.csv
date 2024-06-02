@@ -1,0 +1,1472 @@
+"PORT","COUNTRY","ISEU","LOCODE","LAT","LON","PORT_CALL count"
+"Hong Kong","HK",0,"HKHKG",22.31,114.17,41440
+"Singapore Port","SG",0,"SGSIN",1.26,103.75,36372
+"Shanghai","CN",0,"CNSHA",31.38,121.6,30148
+"Kaohsiung","TW",0,"TWKHH",22.58,120.32,19313
+"Colon","PA",0,"PAONX",9.35,-79.91,19026
+"Rotterdam","NL",1,"NLRTM",51.9,4.49,18985
+"Ningbo","CN",0,"CNNGB",29.94,121.88,18591
+"Busan","KR",0,"KRPUS",35.1,129.04,16927
+"Balboa","PA",0,"PABLB",8.95,-79.57,16049
+"Shenzhen","CN",0,"CNSZX",22.5,113.85,15824
+"Qingdao","CN",0,"CNTAO",36.06,120.32,14504
+"Tianjin","CN",0,"CNTXG",38.94,117.79,14126
+"Yokohama","JP",0,"JPYOK",35.41,139.66,13781
+"Jebel Ali","AE",0,"AEJEA",25,55.05,13448
+"Brunsbuettel","DE",1,"DEBRB",53.94,9.28,13386
+"Kiel","DE",1,"DEKEL",54.37,10.15,12899
+"Port Klang","MY",0,"MYPKG",2.98,101.36,12640
+"Tokyo","JP",0,"JPTYO",35.61,139.83,11787
+"Istanbul","TR",0,"TRIST",41.09,29.04,11210
+"Hamburg","DE",1,"DEHAM",53.51,9.96,10808
+"Xiamen","CN",0,"CNXMN",24.5,118.03,10527
+"Kobe","JP",0,"JPUKB",34.69,135.27,9933
+"Antwerpen","BE",1,"BEANR",51.3,4.31,9854
+"Osaka","JP",0,"JPOSA",34.61,135.44,9815
+"Dalian","CN",0,"CNDLC",39,121.76,9612
+"Yantian","CN",0,"CNYTN",22.58,114.28,9287
+"Yangshan","CN",0,"CNYAN",30.61,122.07,9247
+"Tanjung Pelepas","MY",0,"MYTPP",1.39,103.54,9131
+"Ho Chi Minh","VN",0,"VNSGN",10.74,106.8,8721
+"Bremerhaven","DE",1,"DEBRV",53.55,8.55,8541
+"Tai Chung","TW",0,"TWTXG",24.26,120.51,8428
+"Fujairah","AE",0,"AEFJR",25.16,56.37,8224
+"Nagoya","JP",0,"JPNGO",35.05,136.84,8138
+"Port Said","EG",0,"EGPSD",31.24,32.32,7852
+"Keelung","TW",0,"TWKEL",25.15,121.75,7657
+"Sao Paulo","BR",0,"BRSAO",-23.97,-46.3,7529
+"Zhoushan","CN",0,"CNZOS",29.92,122.21,7350
+"New Orleans","US",0,"USMSY",29.81,-90.16,7155
+"Valencia","ES",1,"ESVLC",39.44,-0.32,6885
+"Bangkok","TH",0,"THBKK",13.08,100.86,6823
+"Algeciras","ES",1,"ESALG",36.14,-5.43,6528
+"Hai Phong","VN",0,"VNHPH",20.67,106.87,6398
+"Manila","PH",0,"PHMNL",14.62,120.94,6270
+"Guangzhou","CN",0,"CNCAN",23.09,113.43,6227
+"Jeddah","SA",0,"SAJED",21.48,39.15,5734
+"Jakarta","ID",0,"IDJKT",-6.13,106.85,5716
+"Lianyungang","CN",0,"CNLYG",34.79,119.57,5654
+"Qinhuangdao","CN",0,"CNSHP",39.83,119.73,5594
+"Los Angeles","US",0,"USLAX",33.74,-118.27,5494
+"Montreal","CA",0,"CAMTR",45.55,-73.51,5451
+"Alexandria","EG",0,"EGALY",31.18,29.88,5445
+"Incheon","KR",0,"KRICE",37.44,126.6,5059
+"New York","US",0,"USNYC",40.68,-74.08,5038
+"Perama","GR",1,"GRPER",37.95,23.59,4739
+"Le Havre","FR",1,"FRLEH",49.47,0.15,4682
+"Zhangjiagang","CN",0,"CNZJG",31.98,120.42,4369
+"Vancouver","CA",0,"CAVAN",49.3,-123.05,4367
+"Colombo","LK",0,"LKCMB",6.95,79.85,4291
+"San Francisco","US",0,"USSFO",37.77,-122.4,4278
+"Felixstowe","GB",1,"GBFXT",51.96,1.3,4254
+"Durban","ZA",0,"ZADUR",-29.88,31.03,3993
+"Norfolk","US",0,"USORF",36.92,-76.37,3976
+"Savannah","US",0,"USSAV",32.12,-81.1,3941
+"Tanger-Med","MA",0,"MAPTM",35.9,-5.49,3839
+"Marsaxlokk","MT",1,"MTMAR",35.83,14.54,3833
+"Tang Shan","CN",0,"CNJIN",39.21,119.01,3831
+"St. Petersburg","RU",0,"RULED",59.92,30.33,3749
+"Barcelona","ES",1,"ESBCN",41.35,2.16,3701
+"Cartagena","CO",0,"COCTG",10.35,-75.53,3696
+"Taizhou","CN",0,"CNTZO",32.23,119.89,3629
+"Rizhao","CN",0,"CNRZH",35.36,119.53,3605
+"Paranagua","BR",0,"BRPNG",-25.5,-48.51,3549
+"Yantai","CN",0,"CNYNT",37.57,121.41,3544
+"Gibraltar","GI",0,"GIGIB",36.14,-5.36,3514
+"Houston","US",0,"USHOU",29.7,-95.11,3467
+"Newcastle","AU",0,"AUNTL",-32.9,151.76,3451
+"Yingkou","CN",0,"CNYIK",40.27,122.09,3451
+"Genova","IT",1,"ITGOA",44.4,8.91,3340
+"Sault Ste. Marie","CA",0,"CASSM",46.51,-84.34,3298
+"Teipei","TW",0,"TWTPE",25.16,121.39,3276
+"Las Palmas","ES",1,"ESLPA",28.14,-15.42,3219
+"Manzanillo","MX",0,"MXZLO",19.08,-104.32,3213
+"Port Hedland","AU",0,"AUPHE",-20.32,118.58,3046
+"Mersin","TR",0,"TRMER",36.8,34.65,3022
+"Seattle","US",0,"USSEA",47.62,-122.36,2786
+"Haifa","IL",0,"ILHFA",32.83,35,2785
+"Fort Lauderdale","US",0,"USFLL",26.14,-80.13,2777
+"Hakata","JP",0,"JPHKT",33.63,130.38,2738
+"Gioia Tauro","IT",1,"ITGIT",38.45,15.9,2726
+"Miami","US",0,"USMIA",25.75,-80.22,2631
+"Melbourne","AU",0,"AUMEL",-37.84,144.94,2587
+"Constanta","RO",1,"ROCND",44.13,28.68,2584
+"Lagos","NG",0,"NGLOS",6.44,3.36,2533
+"Zhenjiang","CN",0,"CNZHE",32.21,119.39,2533
+"Immingham","GB",1,"GBIMM",53.64,0.19,2508
+"Nantong","CN",0,"CNNTG",31.97,120.87,2502
+"Richards Bay","ZA",0,"ZARCB",-28.81,32.06,2499
+"Rio Grande","BR",0,"BRRIG",-32.09,-52.12,2404
+"Charleston","US",0,"USCHS",32.84,-79.92,2383
+"Ichihara","JP",0,"JPICH",35.47,140,2362
+"San Lorenzo","AR",0,"ARSLO",-32.7,-60.73,2335
+"Nhava Sheva","IN",0,"INNSA",18.95,72.95,2323
+"Jiangyin","CN",0,"CNJGY",25.43,119.3,2320
+"Mundra","IN",0,"INMUN",22.76,69.64,2316
+"IJmuiden","NL",1,"NLIJM",52.46,4.6,2266
+"Casablanca","MA",0,"MACAS",33.61,-7.6,2236
+"Novorossiysk","RU",0,"RUNVS",44.72,37.81,2193
+"Fos-sur-Mer","FR",1,"FRFOS",43.42,4.87,2125
+"Izmir","TR",0,"TRIZM",38.44,27.1,2115
+"Brisbane","AU",0,"AUBNE",-27.42,153.1,2102
+"Chennai","IN",0,"INMAA",13.11,80.3,2100
+"Tilbury","GB",1,"GBTIL",51.46,0.35,2096
+"Sydney","AU",0,"AUSYD",-33.97,151.21,2093
+"Puerto Cortes","HN",0,"HNPCR",15.84,-87.95,2078
+"Rio de Janeiro","BR",0,"BRRIO",-22.85,-43.18,2055
+"Lisboa","PT",1,"PTLIS",38.71,-9.14,2054
+"Gothenburg","SE",1,"SEGOT",57.7,11.88,2046
+"Guayaquil","EC",0,"ECGYE",-2.28,-79.9,2032
+"Caobeidian","CN",0,"",38.95,118.47,2024
+"Luozhou","CN",0,"CNLYI",29.74,119.48,2024
+"La Spezia","IT",1,"ITSPE",44.1,9.84,2017
+"Gdynia","PL",1,"PLGDY",54.53,18.53,2008
+"Caucedo","DO",0,"DOCAU",18.43,-69.63,1998
+"Dammam","SA",0,"SADMM",26.44,50.15,1991
+"Porto deTubarao","BR",0,"BRTUB",-20.29,-40.24,1965
+"Venice","IT",1,"ITVCE",45.45,12.25,1964
+"Terneuzen","NL",1,"NLTNZ",51.32,3.83,1937
+"Baltimore","US",0,"USBAL",39.22,-76.54,1934
+"Lanshan","CN",0,"CNLSN",35.06,119.51,1933
+"Bandar Abbas","IR",0,"IRBND",27.15,56.24,1924
+"Cape Town","ZA",0,"ZACPT",-33.91,18.44,1923
+"Longkou","CN",0,"CNLKU",37.64,120.28,1887
+"Riga","LV",1,"LVRIX",57.04,24.08,1835
+"Buenos Aires","AR",0,"ARBUE",-34.61,-58.37,1822
+"Ashdod","IL",0,"ILASH",31.82,34.62,1812
+"Fang Cheng Gang","CN",0,"CNFAN",21.59,108.38,1804
+"Liverpool","GB",1,"GBLIV",53.42,-3.01,1796
+"Hiroshima","JP",0,"JPHIJ",34.35,132.44,1792
+"Longshan Shipyard","CN",0,"",29.79,122.1,1786
+"Dunkirk","FR",1,"FRDKK",51.04,2.31,1784
+"Umm Said","QA",0,"QAUMS",24.96,51.6,1768
+"Vladivostok","RU",0,"RUVVO",43.09,131.9,1756
+"Veracruz","MX",0,"MXVER",19.2,-96.13,1755
+"Livorno","IT",1,"ITLIV",43.56,10.31,1748
+"Gladstone","AU",0,"AUGLT",-23.82,151.23,1743
+"Montevideo","UY",0,"UYMVD",-34.89,-56.22,1730
+"Beirut","LB",0,"LBBEY",33.91,35.53,1713
+"Salalah","OM",0,"OMSLL",16.95,54,1687
+"Dampier","AU",0,"AUDAM",-20.63,116.67,1678
+"Zhanjiang","CN",0,"CNZHA",21.19,110.47,1668
+"Teesport","GB",1,"GBTEE",54.63,-1.15,1645
+"Tema","GH",0,"GHTEM",5.63,0.01,1630
+"Yokkaichi","JP",0,"JPYKK",34.96,136.66,1630
+"Sines","PT",1,"PTSIE",37.94,-8.87,1613
+"Gebze","TR",0,"TRGEB",40.76,29.38,1581
+"Huanghua","CN",0,"CNHHA",38.32,117.88,1581
+"Klaipeda","LT",1,"LTKLJ",55.69,21.13,1577
+"Bilbao","ES",1,"ESBIO",43.35,-3.05,1572
+"Kisarazu","JP",0,"JPKZU",35.37,139.88,1566
+"Limassol","CY",1,"CYLMS",34.66,33.03,1562
+"Ulsan","KR",0,"KRUSN",35.45,129.4,1545
+"Pyeongtaek","KR",0,"KRPTK",36.99,126.8,1544
+"Aqaba","JO",0,"JOAQJ",29.47,34.97,1534
+"Tuticorin","IN",0,"INTUT",8.75,78.22,1533
+"Aarhus","DK",1,"DKAAR",56.15,10.23,1519
+"Cagliari","IT",1,"ITCAG",39.2,9.08,1503
+"Helsinki","FI",1,"FIHEL",60.21,25.21,1500
+"Auckland","NZ",0,"NZAKL",-36.84,174.77,1475
+"Buenaventura","CO",0,"COBUN",3.89,-77.06,1468
+"Baton Rouge","US",0,"USBTR",30.04,-90.83,1467
+"Phu My - Vung Tau","VN",0,"VNPHU",10.61,107.01,1461
+"Jiangyinzhen","CN",0,"",25.41,119.29,1456
+"Damietta","EG",0,"EGDAM",31.47,31.76,1452
+"Nanjing","CN",0,"CNNKG",32.21,119.18,1451
+"Manamah","BH",0,"BHMAN",26.18,50.72,1450
+"Koper","SI",1,"SIKOP",45.56,13.74,1442
+"Mombasa","KE",0,"KEMBA",-4.05,39.63,1436
+"Vostochny","RU",0,"RUVYP",42.75,133.05,1436
+"Wakayama","JP",0,"JPWAK",34.22,135.13,1436
+"Pasir Gudang","MY",0,"MYPGU",1.44,103.89,1418
+"Ravenna","IT",1,"ITRAN",44.45,12.25,1415
+"San Antonio","CL",0,"CLSAI",-33.59,-71.62,1407
+"Kuantan","MY",0,"MYKUA",3.97,103.43,1405
+"Duluth","US",0,"USDLH",46.74,-92.11,1398
+"Dublin","IE",1,"IEDUB",53.35,-6.21,1397
+"Djibouti","DJ",0,"DJJIB",11.6,43.11,1395
+"Abidjan","CI",0,"CIABJ",5.27,-4.01,1379
+"Gemlik","TR",0,"TRGEM",40.43,29.12,1376
+"Yang Pu","CN",0,"CNYGP",19.87,109.14,1373
+"Barranquilla","CO",0,"COBAQ",10.97,-74.76,1371
+"Mizushima","JP",0,"JPMIZ",34.5,133.71,1363
+"Izmit","TR",0,"TRIZT",40.77,29.71,1355
+"Trieste","IT",1,"ITTRS",45.64,13.76,1353
+"Shimizu","JP",0,"JPSMZ",35.02,138.51,1350
+"Southampton","GB",1,"GBSOU",50.9,-1.42,1321
+"Gdansk","PL",1,"PLGDN",54.38,18.68,1313
+"Pipavav","IN",0,"INPAV",20.92,71.51,1310
+"Zeebrugge","BE",1,"BEZEE",51.33,3.21,1299
+"Freeport Bahamas","BS",0,"BSFPO",26.53,-78.77,1292
+"Varna","BG",1,"BGVAR",43.19,27.91,1283
+"Mina Saqr","AE",0,"AEMSA",25.98,56.05,1276
+"Neapel","IT",1,"ITNAP",40.84,14.28,1268
+"Thessaloniki","GR",1,"GRSKG",40.64,22.92,1268
+"Shiogama","JP",0,"JPSGM",38.27,141.03,1264
+"Haina","DO",0,"DOHAI",18.42,-70.02,1247
+"Adelaide","AU",0,"AUADL",-34.81,138.51,1239
+"Philadelphia","US",0,"USPHL",39.91,-75.17,1233
+"Odessa","UA",0,"UAODS",46.5,30.74,1228
+"Salerno","IT",1,"ITSAL",40.67,14.75,1220
+"Caofeidian","CN",0,"CNCFD",39.02,118.52,1215
+"Kashima","JP",0,"JPKSM",35.91,140.68,1195
+"Maputo","MZ",0,"MZMPM",-25.96,32.55,1153
+"Itaqui","BR",0,"BRITQ",-2.56,-44.38,1138
+"Dakar","SN",0,"SNDKR",14.68,-17.43,1125
+"Jacksonville","US",0,"USJAX",30.38,-81.52,1122
+"Penang","MY",0,"MYPEN",5.42,100.36,1118
+"Iskenderun","TR",0,"TRISK",36.68,36.18,1115
+"Portland Oregon","US",0,"USPDX",45.6,-122.72,1115
+"Qasim","PK",0,"PKQCT",24.76,67.33,1107
+"Hay Point","AU",0,"AUHPT",-21.27,149.31,1089
+"Shantou","CN",0,"CNSWA",23.31,116.77,1089
+"Lazaro Cardenas","MX",0,"MXLZC",17.95,-102.16,1081
+"Lyttelton","NZ",0,"NZLYT",-43.61,172.72,1077
+"Halifax","CA",0,"CAHAL",44.67,-63.6,1062
+"Mariupol","UA",0,"UAMPW",47.05,37.5,1060
+"Point Samson","AU",0,"AUPSM",-20.58,117.2,1057
+"Oslo","NO",0,"NOOSL",59.89,10.75,1056
+"Mobile","US",0,"USMOB",30.7,-88.04,1055
+"Stockholm","SE",1,"SESTO",59.34,18.14,1054
+"Fremantle","AU",0,"AUFRE",-32.05,115.74,1040
+"Fukuyama","JP",0,"JPFKY",34.45,133.43,1036
+"Haibucun","CN",0,"",37.45,122.19,1026
+"Copenhagen","DK",1,"DKCPH",55.71,12.61,1014
+"Hachinohe","JP",0,"JPHHE",40.55,141.5,1005
+"Dubai","AE",0,"AEDXB",25.28,55.29,1004
+"Al Jubail","SA",0,"SAJBI",27.05,49.68,1003
+"Luanda","AO",0,"AOLAD",-8.77,13.27,1003
+"Lome","TG",0,"TGLFW",6.14,1.28,985
+"Doha","QA",0,"QADOH",25.3,51.56,974
+"Helsingborg","SE",1,"SEHEL",56.02,12.69,972
+"Pohang","KR",0,"KRKPO",36.02,129.41,971
+"Vrangel","RU",0,"RUVRA",42.76,132.99,971
+"Amsterdam","NL",1,"NLAMS",52.37,4.88,967
+"Point Lisas","TT",0,"TTPTS",10.4,-61.49,967
+"Karachi","PK",0,"PKKHI",24.83,66.98,962
+"Dangjin","KR",0,"KR TJI",37,126.71,958
+"Sohar","OM",0,"OMSOH",24.5,56.62,951
+"Grangemouth","GB",1,"GBGRG",56.03,-3.69,947
+"Muuga","EE",1,"EEMUG",59.49,24.96,938
+"Ust-Luga","RU",0,"RUULU",59.68,28.33,927
+"Walvis Bay",NA,0,"NAWVB",-22.94,14.5,926
+"Santa Marta","CO",0,"COSMR",11.24,-74.22,923
+"Cochin","IN",0,"INCOK",9.96,76.27,903
+"Illichevsk","UA",0,"UAILK",46.33,30.66,899
+"Gaoqiaozhen","CN",0,"",40.81,121.06,892
+"Port Sudan","SD",0,"SDPZU",19.62,37.22,886
+"Kingston upon Hull","GB",1,"GBHUL",53.74,-0.27,883
+"Khor Fakkan","AE",0,"AEKLF",25.36,56.37,879
+"Rockingham","AU",0,"AUROM",-32.21,115.76,877
+"Kotka","FI",1,"FIKTK",60.42,26.91,875
+"Douala","CM",0,"CMDLA",4.04,9.68,869
+"Corpus Christi","US",0,"USCRP",27.83,-97.47,868
+"Cangzhou","CN",0,"CNCZU",38.36,117.76,867
+"Cebu","PH",0,"PHCEB",10.32,123.95,858
+"Saldanha","ZA",0,"ZASDB",-33.02,17.98,854
+"Susaki","JP",0,"JPSUZ",33.39,133.29,854
+"Castellon","ES",1,"ESCAS",39.96,0.03,853
+"Gulangyu","CN",0,"",24.41,118.06,852
+"HRDD Chong Ming Island","CN",0,"CNCMG",31.59,121.45,851
+"Chicago","US",0,"USCHI",41.67,-87.45,836
+"Davao","PH",0,"PHDVO",7.13,125.66,831
+"Ghent","BE",1,"BEGNE",51.12,3.77,831
+"Gijon","ES",1,"ESGIJ",43.56,-5.69,830
+"Toyohashi","JP",0,"JPTHS",34.73,137.31,820
+"Abu Dhabi","AE",0,"AEAUH",24.48,54.5,815
+"Hakodate","JP",0,"JP HKD",41.79,140.72,812
+"Tunis","TN",0,"TNTUN",36.81,10.29,812
+"Salvador da Bahia","BR",0,"BRSSA",-12.97,-38.52,810
+"Port Elizabeth","ZA",0,"ZAPLZ",-33.96,25.64,806
+"Port of Spain","TT",0,"TTPOS",10.65,-61.52,798
+"Mumbai","IN",0,"INBOM",18.94,72.86,795
+"Misrata","LY",0,"LYMRA",32.37,15.22,792
+"Vila do Conde","BR",0,"BRVIC",-1.54,-48.75,790
+"Ennore","IN",0,"INENR",13.26,80.34,785
+"Mykolayiv","UA",0,"UAZUA",46.94,32,785
+"Trelleborg","SE",1,"SETRG",55.37,13.15,783
+"Mokpo","KR",0,"KRMOK",34.77,126.35,780
+"Ancona","IT",1,"ITAOI",43.62,13.5,778
+"Long Xue Shipyard","CN",0,"",22.69,113.66,777
+"Puerto Quetzal","GT",0,"GTPRQ",13.92,-90.79,776
+"Krishnapatnam","IN",0,"INKRI",14.25,80.13,766
+"Brevik","NO",0,"NOBVK",59.06,9.7,754
+"Belfast","GB",1,"GBBEL",54.63,-5.88,752
+"Kandla","IN",0,"INIXY",23.02,70.23,751
+"Port Kembla","AU",0,"AUPKL",-34.45,150.89,751
+"Tartus","SY",0,"SYSOR",34.91,35.86,744
+"Valparaiso","CL",0,"CLVAP",-33.03,-71.61,738
+"San Vicente","ES",1,"ESSVB",-36.73,-73.14,737
+"Maji Shan","CN",0,"CNMJS",30.7,122.46,732
+"Cleveland","US",0,"USCLE",41.5,-81.72,728
+"Tarragona","ES",1,"ESTAR",41.1,1.22,727
+"Rosario","AR",0,"ARROS",-33.02,-60.58,725
+"Nakhodka","RU",0,"RUNJK",42.8,132.91,720
+"Malaga","ES",1,"ESAGP",36.71,-4.42,714
+"Banjarmasin","ID",0,"IDBDJ",-3.33,114.55,705
+"Conakry","GN",0,"GNCKY",9.51,-13.72,697
+"Beira","MZ",0,"MZBEW",-19.82,34.83,694
+"Surabaya","ID",0,"IDSUB",-7.01,112.76,694
+"Beihai","CN",0,"CNBHY",21.48,109.05,689
+"Ngqura","ZA",0,"ZAZBA",-33.8,25.69,681
+"Tuzla","TR",0,"TRTUZ",40.83,29.29,681
+"Yuzhny","UA",0,"UAYUZ",46.63,31.02,677
+"Travemuende","DE",1,"DETRV",53.94,10.86,676
+"Longview","US",0,"USLOG",46.11,-122.95,674
+"Puerto Limon","CR",0,"CRLIO",9.99,-83.02,673
+"Bremen","DE",1,"DEBRE",53.12,8.71,666
+"Mejillones","CL",0,"CLMJS",-22.98,-70.41,666
+"Newcastle upon Tyne","GB",1,"GBNCL",54.99,-1.46,661
+"Plaquemines Parish Port","US",0,"USPLQ",29.57,-89.79,650
+"Qinzhou","CN",0,"CNQZH",21.68,108.65,650
+"Marseille","FR",1,"FRMRS",43.35,5.31,648
+"Paradip","IN",0,"INPRT",20.28,86.69,646
+"Aalborg","DK",1,"DKAAL",57.07,9.97,644
+"Thamesport","GB",1,"GBTHP",51.43,0.69,641
+"Tampa","US",0,"USTPA",27.9,-82.5,636
+"Kemen","CN",0,"",26.38,119.76,631
+"Dongjiakou","CN",0,"",35.59,119.79,624
+"Sakaiminato","JP",0,"JPSMN",35.54,133.26,623
+"Lattakia","SY",0,"SYALD",35.53,35.77,622
+"Bahia Blanca","AR",0,"ARBHI",-38.79,-62.27,621
+"Quanzhou","CN",0,"CNQZJ",24.83,118.73,615
+"Ensenada","MX",0,"MXESE",31.85,-116.64,610
+"Kronshtadt","RU",0,"RUKDT",60,29.71,610
+"Changshu","CN",0,"CNCGU",31.77,120.95,608
+"Slite","SE",1,"SESLI",57.71,18.81,608
+"Kristiansand","NO",0,"NOKRS",58.1,8.05,600
+"Toamasina","MG",0,"MGTOA",-18.15,49.43,594
+"Kolkata","IN",0,"INCCU",22.54,88.3,593
+"Reykjavik","IS",0,"ISREY",64.14,-21.84,590
+"Vigo","ES",1,"ESVGO",42.25,-8.71,586
+"Santa Cruz de Tenerife","ES",1,"ESSCT",28.48,-16.21,584
+"Chang Xing Dao","CN",0,"",40.69,121.11,580
+"Yangzhou","CN",0,"CNYZH",32.27,119.43,579
+"Rouen","FR",1,"FRURO",49.36,0.98,576
+"Dandong","CN",0,"CNDDP",39.82,124.16,569
+"Setubal","PT",1,"PTSET",38.49,-8.84,569
+"Bristol (UK)","GB",1,"GBBSG",51.5,-2.72,567
+"Tomakomai Power Plant","JP",0,"",42.61,141.78,565
+"Changzhou","CN",0,"CNCZX",31.97,120,563
+"Szczecin","PL",1,"PLSZZ",53.43,14.58,562
+"Shidao","CN",0,"CNSHD",36.89,122.45,555
+"San Nicolas de Los Arroyos","AR",0,"ARSNS",-33.35,-60.18,553
+NA,"RE",0,"RELPT",-20.93,55.32,549
+"Higashi Harima","JP",0,"JPHHR",34.7,134.86,544
+"Saint Nazaire","FR",1,"FRSNR",47.13,-2.36,542
+"Qiantang River Delta","CN",0,"",29.52,121.51,541
+"Fredericia","DK",1,"DKFRC",55.56,9.75,540
+"Algier","DZ",0,"DZALG",36.77,3.07,539
+"Cork","IE",1,"IEORK",51.9,-8.42,538
+"Maracaibo","VE",0,"VEMAR",10.63,-71.64,536
+"Poti","GE",0,"GEPTI",42.15,41.65,536
+"Sfax","TN",0,"TNSFA",34.73,10.77,532
+"Caldera","CR",0,"CRCAL",9.91,-84.72,529
+"Da Nang","VN",0,"VNDAD",16.12,108.22,526
+"Tripolis","LY",0,"LYTIP",32.9,13.19,524
+"Kinuura","JP",0,"JPKNU",34.85,136.96,523
+"San Juan","PR",0,"PRSJU",18.44,-66.09,522
+"Vitoria","BR",0,"BRVIX",-20.32,-40.32,521
+"Willemstad","AN",0,"ANWIL",12.11,-68.93,511
+"Honolulu","US",0,"USHNL",21.29,-157.88,502
+"Cadiz","ES",1,"ESCAD",36.53,-6.28,501
+"Ceuta","ES",1,"ESCEU",35.9,-5.31,497
+"Rendsburg","DE",1,"DEREN",54.31,9.68,494
+"Nanbu","CN",0,"CNNAO",31.55,121.53,474
+"Yuzhne","UA",0,"",46.64,31.02,473
+"Coronel","CL",0,"CLCNL",-37.04,-73.17,472
+"Arroyo Seco","AR",0,"",-33.12,-60.5,468
+"Larvik","NO",0,"NOLAR",59.04,10.04,465
+"Kanazawa","JP",0,"JPKNZ",36.61,136.62,463
+"Yang Jiang","CN",0,"CNYJI",21.69,111.82,463
+"Semarang","ID",0,"IDSRG",-6.94,110.42,459
+"Weipa","AU",0,"AUWEI",-12.67,141.87,457
+"Kyme","TR",0,"TRALI",38.77,26.92,456
+"Mangalore","IN",0,"INIXE",12.93,74.82,456
+"Port Kamsar","GN",0,"GNKMR",10.64,-14.63,455
+"Paramaribo","SR",0,"SRPBM",5.81,-55.17,451
+"Itajai","BR",0,"BRITJ",-26.88,-48.69,450
+"Kaliningrad","RU",0,"RUKGD",54.65,20.07,450
+"Burgas","BG",1,"BGBOJ",42.48,27.46,449
+"Puerto Cabello","VE",0,"VEPBL",10.48,-68.01,449
+"Geraldton","AU",0,"AUGET",-28.78,114.59,447
+"LV Hua Shan","CN",0,"CNLUH",30.78,122.6,445
+"Nueva Palmira","UY",0,"UYNVP",-33.88,-58.42,445
+"Hamilton","CA",0,"CAHAM",43.27,-79.8,440
+"Philipsburg","SX",0,"SXPHI",18.01,-63.04,436
+NA,"TR",0,"TRDYL",36.84,36.16,431
+"Iwakuni","JP",0,"JPIWK",34.19,132.24,429
+"Rijeka","HR",1,"HRRJK",45.32,14.45,429
+"Pepel","SL",0,"SLPEP",8.57,-13.06,428
+"Muroran","JP",0,"JPMUR",42.34,140.97,424
+"Nikolayev","UA",0,"UANIK",46.84,31.95,424
+"Port Arthur","US",0,"USPOA",29.84,-93.91,423
+"Brest","FR",1,"FRBES",48.38,-4.49,421
+"Dai Shan","CN",0,"",30.28,122.07,418
+"Ar Ruways","AE",0,"AERUW",24.15,52.73,417
+"Oran","DZ",0,"DZORN",35.72,-0.63,409
+"Oranjestad","AW",0,"AWORJ",12.52,-70.05,407
+"Bilixiang","CN",0,"CNBLI",26.46,119.7,405
+"Suape","BR",0,"BRIPO",-8.39,-34.96,405
+"Bunbury","AU",0,"AUBUY",-33.32,115.66,400
+"Halmstad","SE",1,"SEHAD",56.65,12.85,397
+"Quintero","CL",0,"CLQTV",-32.76,-71.51,395
+"Boston","US",0,"USBOS",42.37,-71.04,394
+"Onne","NG",0,"NGONN",4.67,7.15,394
+"Takoradi","GH",0,"GHTKD",4.89,-1.74,393
+NA,"SE",1,"SEGVX",60.69,17.22,392
+"Moss","NO",0,"NOMSS",59.41,10.64,392
+"Wellington","NZ",0,"NZWLG",-41.28,174.79,388
+"Cartagena (Spain)","ES",1,"ESCAR",37.58,-0.97,382
+"New Westminster","CA",0,"CANWE",49.19,-122.9,381
+"Al Khoms","LY",0,"",32.68,14.25,379
+"Sajiang River Delta","CN",0,"",26.74,119.73,378
+"Samarinda","ID",0,"IDSRI",-0.56,117.18,378
+"Arrecife","ES",1,"ESACE",28.97,-13.53,377
+"Sagunto","ES",1,"ESSAG",39.65,-0.22,377
+"Navegantes","BR",0,"BRNVT",-26.9,-48.66,375
+"Port Moresby","PG",0,"PGPOM",-9.45,147.12,375
+"Tomakomai","JP",0,"JPTMK",42.64,141.65,375
+"Fort de France","MQ",0,"MQFDF",14.59,-61.05,372
+"Civitavecchia","IT",1,"ITCVV",42.1,11.78,371
+"Jiaojiang","CN",0,"CNJOJ",28.69,121.45,371
+"Frederikstad","NO",0,"",59.18,10.95,370
+"Alumar","BR",0,"BRALU",-2.68,-44.36,363
+"Sao Francisco do Sul","BR",0,"BRSFS",-26.24,-48.63,363
+"Kagoshima","JP",0,"JPKOJ",31.54,130.56,360
+"Klein Point","AU",0,"AUKLP",-34.96,137.78,359
+"Yiu Lian Shekou Dockyards","CN",0,"",22.5,113.84,359
+"Hekou","CN",0,"",38.08,118.95,358
+"Takamatsu","JP",0,"JPTAK",34.36,134.06,356
+"Zhuhai Western Terminal","CN",0,"",21.96,113.18,355
+"Geelong","AU",0,"AUGEX",-38.11,144.37,354
+"Benghazi","LY",0,"LYBEN",32.12,20.05,352
+"Norrkoping","SE",1,"SENRK",58.62,16.27,350
+"Ventspils","LV",1,"LVVNT",57.4,21.56,349
+"Cotonou","BJ",0,"BJCOO",6.35,2.42,347
+"Aratu","BR",0,"BRARB",-12.78,-38.48,342
+"Greenock","GB",1,"GBGRK",55.96,-4.76,341
+"Nouakchott","MR",0,"MRNKC",17.99,-16.03,340
+"Kotabaru","ID",0,"IDKBU",-3.2,116.29,339
+"Moerdijk","NL",1,"NLMOE",51.69,4.59,338
+"Dongying","CN",0,"CNDGY",38.08,118.98,337
+"Kalama","US",0,"USKAM",46.03,-122.87,334
+"Vlissingen","NL",1,"NLVLI",51.46,3.69,332
+"Mailiao","TW",0,"TWMLI",23.79,120.19,328
+"Wismar","DE",1,"DEWIS",53.9,11.46,328
+"Wilhelmshaven","DE",1,"DEWVN",53.56,8.12,327
+"Asauleyh","IR",0,"",27.54,52.54,326
+"Mormugao","IN",0,"INMRM",15.41,73.81,326
+"Hazira","IN",0,"IN HZR",21.09,72.66,325
+"Prince Rupert","CA",0,"CAPRR",54.31,-130.32,325
+"Lobito","AO",0,"AOLOB",-12.34,13.55,324
+"Quebec","CA",0,"CAQUE",46.81,-71.2,323
+"Sorel","CA",0,"CASOR",46.05,-73.12,323
+"Sakaide","JP",0,"JPSKD",34.34,133.86,321
+"Baltiysk","RU",0,"RUBLT",54.63,19.92,320
+"Bergen","NO",0,"NOBGO",60.39,5.31,320
+"Hodeidah","YE",0,"YEHOD",14.84,42.94,319
+"Kochi","JP",0,"JP KCZ",33.54,133.57,319
+"La Coruna","ES",1,"ESLCG",43.35,-8.37,317
+"Thorshavn","FO",0,"FOTHO",62,-6.77,316
+"Oita","JP",0,"JPOIT",33.26,131.68,311
+"Penglai","CN",0,"CNPLA",37.79,120.63,310
+"Dumai","ID",0,"IDDUM",1.7,101.48,309
+"Xiaocuo","CN",0,"",25.21,118.96,309
+"Nacala","MZ",0,"MZMNC",-14.54,40.67,306
+"Houlingcun","CN",0,"",39.98,119.83,305
+"Freetown","SL",0,"SLFNA",8.49,-13.21,304
+"Jiaxing Power Plant","CN",0,"CNJIX",30.63,121.16,302
+"Newport (UK)","GB",1,"GBNEP",51.55,-2.98,297
+"Astoria","US",0,"USAST",46.18,-123.81,296
+"Kingston (Jamaica)","JM",0,"JMKIN",17.97,-76.79,296
+"Haikou","CN",0,"CNHAK",20.04,110.28,295
+"Jorf Lasfar","MA",0,"MAJFL",33.12,-8.63,295
+"Matsuyama","JP",0,"JP MYJ",33.85,132.69,292
+"Carteya Guadarranque","ES",1,"ESRDG",36.17,-5.42,291
+"Tananger","NO",0,"NOTAE",58.92,5.59,291
+"Venice Louisiana","UA",0,"UAVN3",29.3,-89.37,289
+"Ako","JP",0,"JPAKO",34.73,134.4,288
+"Samsun","TR",0,"TRSSX",41.31,36.38,288
+"Eregli","TR",0,"TRERE",41.27,31.4,287
+"Freeport","US",0,"USFPO",28.94,-95.34,287
+"Imam Khomeini","IR",0,"IRBKM",30.4,49.05,283
+"Kuwait","KW",0,"KWKWI",29.35,47.92,282
+"Guaymas","MX",0,"MXGYM",27.92,-110.87,278
+"Altinova","TR",0,"",40.71,29.47,276
+"Yanbu","SA",0,"SAYNB",24.08,38.07,275
+"Laizhou","CN",0,"CNLAI",37.41,119.95,274
+"Qianaobu","CN",0,"CNGRO",23.22,116.78,274
+"Sevilla","ES",1,"ESSVQ",37.32,-6,274
+"Rauma","FI",1,"FIRAU",61.13,21.43,272
+"Sevastopol","UK",0,"UKSVP",44.62,33.55,272
+"Zhapu","CN",0,"CNZAP",30.58,121.08,272
+"Taranto","IT",1,"ITTAR",40.49,17.19,267
+"Brindisi","IT",1,"ITBDS",40.65,17.97,266
+"Wilmington","US",0,"USILM",34.19,-77.96,266
+"Ras Isa","YE",0,"YERAI",14.97,42.8,265
+"Hanjiang","CN",0,"CNHAN",25.45,119.19,264
+"New Plymouth","NZ",0,"NZNPL",-39.06,174.04,263
+"Songxia","CN",0,"CNSON",25.76,119.63,261
+"Shajiao","CN",0,"CNSHO",22.74,113.67,259
+"Batam","ID",0,"IDBTH",1.1,103.89,258
+"Leixoes","PT",1,"PTLEI",38.68,-9.18,257
+"Hui Zhou","CN",0,"CNHZP",22.74,114.63,255
+"Soma","JP",0,"JPSOM",37.86,140.96,253
+"Gaolan","CN",0,"CNGAL",21.94,113.23,250
+"Agadir","MA",0,"MAAGA",30.43,-9.65,249
+"Beaumont","US",0,"USBPT",30.08,-94.08,249
+"Lirquen","CL",0,"CLLQN",-36.71,-72.99,249
+"Malmo","SE",1,"SEMMA",55.63,12.98,249
+"Puerto del Rosario","ES",1,"ESFUE",28.49,-13.86,249
+"Tieshan Xingang","CN",0,"CNBHT",21.48,109.55,249
+"Hualien","TW",0,"TWHUN",23.99,121.63,245
+"Naha","JP",0,"JPNAH",26.23,127.67,245
+"Tamano","JP",0,"JPTAM",34.45,133.93,245
+"Eastham","GB",1,"GBEAM",53.41,-3.01,244
+"Port Harcourt","NG",0,"NGPHC",4.77,7.01,243
+"Liepaja","LV",1,"LVLPX",56.55,21.04,242
+"Adabiya","EG",0,"EGADA",29.88,32.48,240
+"Ain Sukhna","EG",0,"EG AIS",29.65,32.36,237
+"Etouwan","CN",0,"",21.85,112.92,237
+"Portovesme","IT",1,"ITPVE",39.2,8.4,234
+"Ibaraki","JP",0,"JPIAK",36.43,140.63,232
+"Oxelosund","SE",1,"SEOXE",58.66,17.11,232
+"Esmeraldas","EC",0,"ECESM",0.99,-79.65,231
+"Ridley Island","CA",0,"",54.23,-130.34,229
+"Osthavnen","DK",1,"",57.05,10.05,227
+"Point Comfort","US",0,"USPCR",28.65,-96.56,226
+"Split","HR",1,"HRSPU",43.53,16.46,226
+"St. Thomas","US",0,"USJWY",18.33,-64.95,226
+"Dahej","IN",0,"INDAH",21.68,72.5,225
+"Galveston","US",0,"USGLS",29.31,-94.81,225
+"Gulfport","US",0,"USGPT",30.36,-89.09,224
+"Ponta Delgada","PT",1,"PTPDL",37.74,-25.67,224
+"Chioggia","IT",1,"ITCHI",45.21,12.27,222
+"Sao Luis","BR",0,"BRITQ",-2.57,-44.38,222
+"Oulu","FI",1,"FIOUL",65,25.41,221
+"Brake","DE",1,"DEBKE",53.34,8.49,220
+"Lake Charles","US",0,"USLCH",30.22,-93.26,220
+"Dneprobugskiy","UA",0,"UADNB",46.77,31.94,218
+"Elevsis","GR",1,"GRELE",38.02,23.54,217
+"Yu Huan Terminal","CN",0,"CNHGH",28.12,121.12,215
+"Anchorage (USA)","US",0,"USANC",61.24,-149.9,213
+"Rostock","DE",1,"DERSK",54.15,12.12,213
+"Houshi","CN",0,"",24.31,118.13,211
+"Zhuangyuanao","CN",0,"",27.9,121.11,211
+"Itaguai","BR",0,"BRIGI",-22.93,-43.86,209
+"Alicante","ES",1,"ESALC",38.33,-0.5,208
+"Umm Qasr","IQ",0,"IQUQR",30.03,47.95,208
+"Waterford","IE",1,"IEWAT",52.26,-7.03,207
+"Kure","JP",0,"JPKRE",34.23,132.56,206
+"Akita","JP",0,"JPAXT",39.76,140.06,205
+"Catania","IT",1,"ITCTA",37.5,15.09,205
+"Ahus","SE",1,"SEAHU",55.93,14.33,204
+"Swinoujscie","PL",1,"PLSWI",53.91,14.28,203
+"Yue Qing","CN",0,"",28.17,121.11,202
+"Dar es Salaam","TZ",0,"TZDAR",-6.83,39.3,201
+"Aden","YE",0,"YEADE",12.79,44.96,199
+"Muscat","OM",0,"OMMC",23.63,58.57,199
+"Wenzhou","CN",0,"CNWNZ",28.11,120.86,199
+"Huludao","CN",0,"CNHLO",40.72,121.01,198
+"Tanjung Merangas","ID",0,"IDTME",0.03,117.53,198
+"Tocopilla","CL",0,"CLTOQ",-22.09,-70.21,195
+"Bizerte","TN",0,"TNBIZ",37.27,9.87,194
+"Hanjin Subic Shipyard","PH",0,"",14.82,120.21,194
+"Trois-Rivieres","CA",0,"CATRR",46.34,-72.54,194
+"Porsgrunn","NO",0,"NOPOR",59.12,9.62,193
+"Augusta","IT",1,"ITAUG",37.2,15.21,191
+"Xiu Shan Island","CN",0,"",30.15,122.15,190
+"Zarate","AR",0,"ARZAE",-34.07,-59.03,189
+"Huelva","ES",1,"ESHUV",37.19,-6.94,188
+"Narvik","NO",0,"NONVK",68.42,17.41,187
+"Antofagasta","CL",0,"CLANF",-23.65,-70.41,184
+"Alang","IN",0,"INALA",21.39,72.22,182
+"Tokuyama","JP",0,"JPTKY",35.06,139.72,182
+"Port Talbot","GB",1,"GBPTB",51.58,-3.8,181
+"Cuxhaven","DE",1,"DECUX",53.86,8.73,180
+"Haldia","IN",0,"INHAL",22.03,88.09,180
+"Bohaixiang","CN",0,"",39.98,119.82,177
+"Darwin","AU",0,"AUDRW",-12.49,130.88,177
+"Imabari","JP",0,"JPIMB",34.07,133.01,176
+"Monfalcone","IT",1,"ITMNF",45.78,13.56,176
+"Aalesund","NO",0,"NOAES",62.47,6.14,175
+"Sembawang","SG",0,"SGSEM",1.46,103.81,175
+"Barao de Teffe","BR",0,"BRANT",-25.46,-48.67,174
+"Skikda","DZ",0,"DZSKI",37.05,6.91,173
+"Ceyhan","TR",0,"TRCEY",36.88,35.91,172
+"Pertigalete","VE",0,"VEPRG",10.24,-64.56,172
+"Portsmouth","GB",1,"GBPME",50.81,-1.09,169
+"Aojiang","CN",0,"",27.36,120.56,168
+"Cobh","IE",1,"IECOB",51.84,-8.32,168
+"Pointe Noire","CG",0,"CGPNR",-4.79,11.83,168
+"Gabes","TN",0,"TNGAE",33.91,10.1,167
+"Niihama","JP",0,"JPIHA",33.98,133.29,167
+"Subic Bay","PH",0,"PHSFS",14.83,120.25,163
+"Apenrade","DK",1,"DKAAB",55.03,9.43,161
+"Langkawi","MY",0,"MYLGK",6.43,99.76,161
+"Santander","ES",1,"ESSDR",43.45,-3.81,160
+"Campana","AR",0,"ARCMP",-34.15,-58.96,159
+"Puerto Plata","DO",0,"DOPOP",19.81,-70.7,158
+"Sharjah","AE",0,"AESHJ",25.36,55.38,158
+"Townsville","AU",0,"AUTSV",-19.25,146.84,158
+"Clarkson","CA",0,"CACSN",43.48,-79.61,157
+"Marugame","JP",0,"JPMAR",34.3,133.78,157
+"Shipuzhen","CN",0,"",29.16,121.88,157
+"Manjung","MY",0,"MY MAN",4.14,100.62,156
+"Fairlie","GB",1,"GBFEE",55.75,-4.88,155
+"Daesan-Seosan","KR",0,"KRTSN",37.02,126.42,153
+"Kakinada","IN",0,"INKAK",17,82.32,153
+"Port O'Connor","US",0,"USVCT",28.38,-96.23,153
+"Ishinomaki","JP",0,"JPISM",38.41,141.27,150
+"Port Huron","US",0,"US PHN",42.98,-82.42,150
+"Port Nelson","NZ",0,"NZPON",-41.26,173.27,150
+"Vado Ligure","IT",1,"ITVDL",44.26,8.45,150
+"Basuo","CN",0,"CNBAS",19.1,108.62,149
+"Castries","LC",0,"LCCAS",14.01,-60.99,149
+"Esbjerg","DK",1,"DKEBJ",55.47,8.43,148
+"Tanjung Bara Coal Terminal","ID",0,"IDTBA",0.53,117.66,147
+"Porto Alegre","BR",0,"BRPOA",-30.01,-51.21,146
+"Trondheim","NO",0,"NOTRD",63.44,10.42,146
+"Hadera","IL",0,"ILHAD",32.47,34.88,145
+"Omaezaki","JP",0,"JPOMZ",33.99,134.99,145
+"Palermo","IT",1,"ITPMO",38.13,13.37,145
+"Toronto","CA",0,"CATOR",43.64,-79.36,145
+"Ghazaouet","DZ",0,"DZGHZ",35.1,-1.86,144
+"Pinkenba","AU",0,"AUPNA",-27.43,153.12,142
+"Savona","IT",1,"ITSVN",44.31,8.5,141
+"Belize City","BZ",0,"BZBZE",17.47,-88.2,140
+"East-London","ZA",0,"ZAELS",-33.03,27.91,140
+"Belem","BR",0,"BRBEL",-1.44,-48.5,139
+"Golcuk","TR",0,"TRGOK",40.72,29.89,139
+"Pascagoula","US",0,"USPGL",30.35,-88.54,139
+"Nizza","FR",1,"FRNCE",43.69,7.29,134
+"Onahama","JP",0,"JPONA",36.93,140.88,134
+"Heimaey","IS",0,"ISVES",63.45,-20.28,133
+"Kalundborg","DK",1,"DKKAL",55.67,11.09,133
+"Nordenham","DE",1,"DENHA",53.49,8.5,133
+"Nouadhibou","MR",0,"",20.81,-17.04,133
+"Capu Midia","RO",1,"RONDI",44.34,28.68,132
+"Weitou","CN",0,"CNWTU",24.52,118.56,132
+"Port Dickson","MY",0,"MY PDI",2.58,101.72,131
+"Valletta","MT",1,"MTMLA",35.89,14.51,130
+"Bushehr","IR",0,"IRBUZ",29,50.83,129
+"Batumi","GE",0,"GEBUS",41.65,41.65,128
+"Varberg","SE",1,"SEVAG",57.11,12.24,128
+"Morro Redondo","MX",0,"MXMRE",28.05,-115.17,127
+"Delfzijl","NL",1,"NLDZL",53.32,6.92,126
+"Okpo","KR",0,"KROKP",34.89,128.71,126
+"Stavanger","NO",0,"NOSVG",59.02,5.64,125
+"Tarjun","ID",0,"IDTAR",-3.28,116.11,125
+"Buchanan","LR",0,"LRUCN",5.86,-10.05,124
+"General Santos","PH",0,"PHGES",6.09,125.16,123
+"Niigata-Nishi","JP",0,"JPKIJ",37.98,139.23,123
+"Banjul","GM",0,"GMBJL",13.44,-16.57,121
+"Maentyluoto","FI",1,"FIMTL",61.6,21.47,121
+"Malabo","GQ",0,"GQSSG",3.76,8.78,121
+"Saint Georges","GD",0,"GDSTG",12.05,-61.75,120
+"Santo Domingo","DO",0,"DOSDQ",18.47,-69.88,120
+"Djen Djen","DZ",0,"DZDJE",36.83,5.89,119
+"Emden","DE",1,"DEEME",53.35,7.19,119
+"El Ferrol","ES",1,"ESFRO",43.46,-8.32,118
+"Manatee","US",0,"USPME",27.63,-82.56,118
+"Ashkelon","IL",0,"ILAKL",31.66,34.53,117
+"Hukou","CN",0,"",23.18,116.66,117
+"La Guaira","VE",0,"VELAG",10.6,-66.94,117
+"Macun","CN",0,"CNMCN",19.97,110.03,117
+"Mishima-Kawanoe","JP",0,"JPMKX",34,133.55,115
+"Yeongheung","KR",0,"KR YCH",37.25,126.42,115
+"Kherson","UA",0,"UAKHE",46.61,32.6,114
+"Ras Laffan","QA",0,"QARLF",25.9,51.62,114
+"Buetzfleth","DE",1,"DEBUZ",53.65,9.5,113
+"Glensanda","GB",1,"GBGSA",56.57,-5.53,113
+"Shuaiba","KW",0,"KWSAA",29.04,48.17,113
+"Sandusky","US",0,"USSKY",41.46,-82.73,112
+"Durres","AL",0,"ALDRZ",41.31,19.45,111
+"Port Cartier","CA",0,"CAPCA",50.03,-66.78,111
+"Punto Fijo","VE",0,"VEPFI",11.67,-70.25,111
+"St. John's","CA",0,"CASJF",47.56,-52.71,111
+"Carrara","IT",1,"ITCRA",44.03,10.04,108
+"Sheerness","GB",1,"GBSHS",51.44,0.74,108
+"Topolobampo","MX",0,"MXTPB",25.58,-109.06,108
+"Cai Lan","VN",0,"VNCLN",20.96,107.06,107
+"Coquimbo","CL",0,"CLCQQ",-29.95,-71.33,107
+"Ellesmere","GB",1,"GBELM",53.32,-2.95,107
+"La Rochelle-Pallice","FR",1,"FRLPE",46.14,-1.56,107
+"Motril","ES",1,"ESMOT",36.72,-3.52,107
+"Tianjin Xingang Shipyard","CN",0,"CNXIG",38.81,121.12,107
+"Zhongjia","CN",0,"",37.71,121.07,107
+"Ajman","AE",0,"AEAJM",25.42,55.44,105
+"Civet Guandong","CN",0,"CNCIV",22.19,113.09,105
+"Mogadishu","SO",0,"SO MGQ",2.03,45.34,105
+"Port Angeles","US",0,"USPGZ",48.13,-123.42,105
+"Raoping","CN",0,"",23.56,117.11,105
+"Becancour","CA",0,"CABEC",46.4,-72.38,104
+"Santa Cruz de la Palma","ES",1,"ESSPC",28.68,-17.77,104
+"Male","MV",0,"MVMLE",4.19,73.5,103
+"Mo I Rana","NO",0,"NOMQN",66.32,14.12,103
+"Muldwarka","IN",0,"INMDK",20.73,70.67,103
+"Tadotsu","JP",0,"JPTAD",34.28,133.74,103
+"Taean","KR",0,"KR TAN",36.69,125.91,103
+"Detroit","US",0,"USDET",42.26,-83.12,102
+"Northfleet","GB",1,"GBNFT",51.45,0.34,101
+"Redwood City","US",0,"USRWC",37.51,-122.21,101
+"Kolding","DK",1,"DKKOL",55.49,9.5,100
+"Recife","BR",0,"BRREC",-8.86,-35.3,99
+"Trapani","IT",1,"ITTPS",38.01,12.52,98
+"Breiviken","NO",0,"NOBVR",59.09,5.9,96
+"Himeji","JP",0,"JPHIM",34.76,134.64,96
+"El-Sokhna","EG",0,"",29.65,32.35,94
+"Thevenard","AU",0,"AUTHE",-32.15,133.64,94
+"Bordeaux","FR",1,"FRBOD",44.99,-0.55,93
+"Rafnes","NO",0,"NORAF",59.11,9.58,93
+"Hunterston Terminal","GB",1,"GBHST",55.75,-4.87,92
+"Trabzon","TR",0,"TRTZX",41,39.74,92
+"Acajutla","Ac",0,"Acajutla",13.58,-89.84,91
+"Bandirma","TR",0,"TRBDM",40.36,27.96,91
+"Glasgow","GB",1,"GBGLW",55.87,-4.35,91
+"Playa del Carmen","MX",0,"MXPCM",20.57,-87.13,91
+"Rostov-on-Don","RU",0,"RUROV",47.19,39.67,91
+"Brunswick","US",0,"USSSI",31.13,-81.49,90
+"Meizhou","CN",0,"CNMEZ",23.59,113.98,90
+"Tuapse","RU",0,"RUTUA",44.09,39.07,90
+"Weihai New Shipbuilding","CN",0,"",37.45,122.28,90
+"Atucha","AR",0,"ARATU",-33.96,-59.18,88
+"Batu Ampar","ID",0,"IDBUR",1.17,104,88
+"Tagonoura","JP",0,"JPTGO",35.14,138.69,88
+"Tanzai","CN",0,"",22.71,115.56,88
+"Kali Limenes","GR",1,"GRKIL",34.93,24.83,87
+"San Diego","US",0,"USSAN",32.66,-117.17,87
+"Villa Constitucion","AR",0,"ARVCN",-33.25,-60.29,87
+"Campamento","ES",1,"ESLLI",36.17,-5.38,86
+"Police","PL",1,"PLPLC",53.56,14.6,86
+"Port Alberni","CA",0,"CAPAB",49.23,-124.81,86
+"Harmac","CA",0,"",49.14,-123.85,85
+"Port Hueneme","US",0,"USNTD",34.15,-119.21,85
+"Eilat","IL",0,"ILETH",29.53,34.94,84
+"Georgetown","GY",0,"GYGEO",6.8,-58.18,84
+"Palma","ES",1,"ESPMI",39.55,2.64,84
+"Aaheim","NO",0,"NOAHM",62.04,5.52,83
+"Landskrona","SE",1,"SELAA",55.86,12.83,82
+"Puerto Bolivar (COL)","CO",0,"COPBO",12.25,-71.96,82
+"Toledo","US",0,"USTOL",41.67,-83.49,81
+"Coatzacoalcos","MX",0,"MXCOA",18.13,-94.41,79
+"Fisherman Islands","AU",0,"AUFIS",-27.45,153.09,79
+"Tanjung Berhala","MY",0,"MYTBE",4.25,103.47,79
+"Contrecoeur","CA",0,"CACOC",45.83,-73.28,78
+"Berbera","SO",0,"SOBBO",10.44,44.99,77
+"Port Lincoln","AU",0,"AUPLO",-34.72,135.87,77
+"Safi","MA",0,"MASFI",32.31,-9.25,77
+"Drepano Riou","GR",1,"GRDRE",38.34,21.84,76
+"Pozzallo","IT",1,"ITPZL",36.71,14.84,76
+"Santo Tomas de Castilla","GT",0,"GTSTC",15.79,-88.61,76
+"Caojingzhen","CN",0,"CNCJG",30.77,121.45,75
+"Puerto Montt","CL",0,"CLPMC",-41.48,-72.95,75
+"Fateh Island","AE",0,"AEFAT",25.6,54.52,74
+"Fushikitoyama","JP",0,"JPFTX",36.77,137.11,72
+"Mackay Seaport","AU",0,"AUMKY",-21.1,149.23,72
+"Tanjung Jati Coal Terminal","ID",0,"",-6.44,110.74,72
+"Putian","CN",0,"CNPUT",25.21,118.99,70
+"Pittsburg","US",0,"USPHG",38.03,-121.87,69
+"Sousse","TN",0,"TNSUS",35.83,10.65,69
+"Tobata","JP",0,"JPTBT",33.93,130.76,68
+"Aveiro","PT",1,"PTAVE",40.64,-8.71,67
+"Imbituba","BR",0,"BRIBB",-28.22,-48.65,67
+"Port Weller","CA",0,"CAPWE",43.29,-79.2,67
+"Dongshan Dao","CN",0,"CNDSN",32.01,118.59,66
+"Ponta Ubu","BR",0,"BRPOU",-20.79,-40.57,66
+"Portland (AU)","AU",0,"AUPTJ",-38.35,141.62,66
+"Yoshiumi","JP",0,"JPYHI",34.15,133,66
+"Altamira","MX",0,"MXATM",22.48,-97.86,65
+"Callao","PE",0,"PECLL",-12.03,-77.17,65
+NA,"DK",1,"DKKRR",55.33,11.15,65
+"Mangalia","RO",1,"ROMAG",43.79,28.61,65
+"Pointe-a-Pitre","GP",0,"GPPTP",16.23,-61.54,65
+"Tombak Gas Terminal","IR",0,"IRTMB",27.73,52.15,65
+"Tripoli","LB",0,"LBKYE",34.46,35.83,65
+"Ahmed Bin Rashid Port","AE",0,"AEQIW",25.59,55.58,64
+"Chatham","GB",1,"GBCTM",51.4,0.55,64
+"Killybegs","IE",1,"IECFN",35.29,139.66,64
+"Kokkola","FI",1,"FIKOK",63.92,22.95,64
+"Porto Torres","IT",1,"ITPTO",40.85,8.36,64
+"Bahia las Minas","PA",0,"PAPBM",9.39,-79.81,63
+"Jinhu","TW",0,"",24.41,118.43,63
+"Maoming","CN",0,"CNMMI",21.39,111.11,63
+"Dasha","CN",0,"CNDSA",30.16,122,62
+"Kerch","UA",0,"UAKEH",45.36,36.49,62
+"Sete","FR",1,"FRSET",43.4,3.72,62
+"Mosjoen","NO",0,"NOMJF",65.85,13.19,61
+"Nghi Son","VN",0,"VNNGH",19.31,105.82,60
+"Vasilikos","CY",1,"CYVAS",34.72,33.32,60
+"Floro","NO",0,"NOFRO",61.61,5.07,59
+"Port Canaveral","US",0,"USPCV",28.41,-80.61,59
+"St. Johns","AG",0,"AGSJS",17.12,-61.86,59
+"Victoria","SC",0,"SCVIC",-4.63,55.46,59
+"Bontang","ID",0,"IDBXT",0.18,117.5,58
+"Cardiff","GB",1,"GBCDF",51.46,-3.15,58
+"Monrovia","LR",0,"LRMLW",6.34,-10.8,58
+"Piombino","IT",1,"ITPIO",42.92,10.56,58
+"Punta Arenas","CL",0,"CLPUQ",-53.13,-70.86,58
+"Zhuhai","CN",0,"CNZUH",22.29,113.59,58
+"Miyazaki","JP",0,"JPKMI",31.91,131.46,57
+"Texas City","US",0,"USTXT",29.36,-94.9,57
+"Chekka","LB",0,"LBCHK",34.33,35.71,56
+"Sydney (Canada)","CA",0,"CASYD",46.16,-60.2,56
+"Stockton","US",0,"USSCK",37.95,-121.33,55
+"Nanchangshan Dao","CN",0,"",31.32,119.88,54
+"Noshiro","JP",0,"JPNSR",40.21,140,54
+"Whyalla","AU",0,"AUWYA",-33.02,137.6,54
+"Farsund","NO",0,"NOFAN",59.53,10.41,53
+"Famagusta","CY",1,"CYFMG",35.13,33.94,52
+"Halden","NO",0,"NOHAL",59.12,11.37,52
+"La Plata","AR",0,"ARLPG",-34.86,-57.9,52
+"Panjin Terminal","CN",0,"CNPJI",40.63,121.98,52
+"Port Giles","AU",0,"AUPGI",-35.02,137.77,52
+"Raahe","FI",1,"FIRAH",64.66,24.41,52
+"Ras Tanura","SA",0,"SARTA",26.67,50.12,52
+"Sept Iles","CA",0,"CASEI",50.2,-66.43,52
+"Petropavlovsk-Kamchatskiy","RU",0,"RUPKC",53.01,158.65,51
+"Sarnia","CA",0,"CA SNI",42.96,-82.44,51
+"Abbot Point","AU",0,"AUABP",-19.87,148.08,50
+"Londonderry","GB",1,"GBLDY",55.04,-7.26,50
+"Nantes","FR",1,"FRNTE",47.19,-1.61,50
+"Patras Rio","GR",1,"GRRIO",38.31,21.79,50
+"Praia da Vitoria","PT",1,"PTPRV",38.71,-27.05,50
+"Safaga","EG",0,"",26.75,33.94,50
+"Pointe Noire (CA)","CA",0,"CAPNO",50.23,-66.42,49
+"Tuxpan","MX",0,"MXTUX",20.95,-97.34,49
+"Annaba","DZ",0,"DZAAE",36.9,7.77,48
+"Canical","PT",1,"PTCNL",32.74,-16.73,48
+"Huangqi","CN",0,"",26.32,119.88,48
+"Bissau","GW",0,"GWOXB",11.86,-15.57,47
+"Brownsville","US",0,"USBRO",25.96,-97.38,47
+"Jersey, UK","JE",0,"JESTH",49.18,-2.11,47
+"Kalmar","SE",1,"SEKLR",56.66,16.37,47
+"Long Hai","CN",0,"CNLGI",24.87,118.19,47
+"Okha","IN",0,"INOKH",22.47,69.08,47
+"Roseau","DM",0,"DMRSU",15.31,-61.39,47
+"Abu Qir","EG",0,"EGAKI",31.33,30.08,46
+"Barcadera","AW",0,"AWBAR",12.48,-70,46
+"Carboneras","ES",1,"ESCRS",36.98,-1.9,46
+"Figueira da Foz","PT",1,"PTFDF",40.14,-8.85,46
+"Gaeta","IT",1,"ITGAE",41.23,13.57,46
+"Grays Harbor","US",0,"USGHR",46.96,-123.85,46
+"Huanghai Shipbuilding Corp.","CN",0,"",36.9,122.45,45
+NA,"DO",0,"DOSPM",18.45,-69.31,45
+"Fray Bentos","UY",0,"UYFZB",-33.11,-58.31,44
+"Kostrena","HR",1,"HRKOS",45.31,14.48,44
+"Duigougangzhen","CN",0,"",34.39,119.79,43
+"Gresik","ID",0,"IDGRE",-7.14,112.66,43
+"Larak Island","IR",0,"",26.95,56.43,43
+"Ortona","IT",1,"ITOTN",42.35,14.42,43
+"Saint Nicolas","GR",1,"GRSTN",38.36,22.68,43
+"Jinshan Weizhen","CN",0,"CNJSP",30.68,121.28,42
+"Kahului","US",0,"USOGG",21.32,-158.11,42
+"Rhodos","GR",1,"GRRHO",36.44,28.24,42
+"Aomori","JP",0,"JPAOJ",40.83,140.75,41
+"Ishikawa","JP",0,"JPIKW",26.43,127.84,41
+"Mubarraz Island","AE",0,"AEMBS",24.53,53.34,41
+"Saleef","YE",0,"YESAL",15.32,42.67,41
+"Shimotsu","JP",0,"JPSMT",34.13,135.05,41
+"Hamina","FI",1,"FIHMN",60.53,27.17,40
+"Hartlepool","GB",1,"GBHTP",54.7,-1.19,40
+"Heraklion","GR",1,"GRHER",35.35,25.15,40
+"Longyan","CN",0,"",37.42,122.64,40
+"Tromso-Breivika","NO",0,"NOTOS",69.68,19,40
+"Gaoming","CN",0,"CNGOM",22.87,112.92,39
+"Hamrawein","EG",0,"EGHAM",26.25,34.21,39
+"Hovland","NO",0,"",58.44,5.99,39
+"Jieh Offshore Terminal","LB",0,"LBJIE",33.65,35.41,39
+"Melilla","ES",1,"ESMLN",35.29,-2.93,39
+"Milwaukee","US",0,"USMKE",43.02,-87.9,39
+"Puerto Ordaz","VE",0,"VEPZO",8.33,-62.71,39
+"Arica","CL",0,"CLARI",-18.47,-70.33,38
+"Cabimas","VE",0,"VECBS",10.37,-71.45,38
+"Danchang","CN",0,"",21.58,109.59,38
+"Ermoupolis","GR",1,"GRJSY",37.43,24.94,38
+"Glueckstadt","DE",1,"DEGLU",53.78,9.41,38
+"Karaikal","IN",0,"INPNY",10.83,79.85,38
+"Nanaimo","CA",0,"CANNO",49.16,-123.93,38
+"Onslow","AU",0,"AUONS",-21.64,115.11,38
+"Gazenica","HR",1,"HRGNA",44.09,15.26,37
+"Ilo","PE",0,"PEILQ",-17.63,-71.36,37
+"Porto-Vecchio","FR",1,"FRPVO",41.6,9.3,37
+"Garrucha","ES",1,"ESGAR",36.8,-1.98,36
+"Kristiansund","NO",0,"NOKSU",63.1,7.78,36
+"Morehead City","US",0,"USMRH",34.72,-76.7,36
+"Nieuwegein","NL",1,"NLNWG",52.03,5.11,36
+"Paldiski","EE",1,"EEPLA",59.33,24.07,36
+"Panama City","US",0,"USPFN",30.18,-85.73,36
+"San Juan de la Costa","MX",0,"MXSJC",24.4,-110.68,36
+"Selaata","LB",0,"LBSEL",34.28,35.66,36
+"Sundsvall","SE",1,"SESDL",62.39,17.34,36
+"Vigeroe","DK",1,"DKODE",55.47,10.54,36
+"Benicia","US",0,"USBNC",38.04,-122.13,35
+"Da Feng","CN",0,"CNDFE",33.28,120.81,35
+"Edinburgh","GB",1,"GBEDI",55.99,-3.18,35
+"Ferndale","US",0,"USFDT",48.84,-122.72,35
+"Nador","MA",0,"MANDR",35.28,-2.92,35
+"Puerto Moin","CR",0,"CRMOB",10.01,-83.08,35
+"Bari","IT",1,"ITBRI",41.14,16.87,34
+"Camara de Lobos","PT",1,"PTCML",32.64,-16.97,34
+"Hormozgan Steel Complex","IR",0,"",26.6,55.66,34
+"Karmsund","NO",0,"NOKAS",59.37,5.3,34
+"Monroe","US",0,"USMOI",41.89,-83.38,34
+"Plymouth","GB",1,"GBPLY",50.34,-4.16,34
+"Port au Prince","HT",0,"HTPAP",18.56,-72.37,34
+"Port-de-Bouc","FR",1,"FRPDB",43.4,5,34
+"Tobruq","LY",0,"LYTOB",32.07,23.98,34
+"Angre Port","IN",0,"INJGD",17.31,73.21,33
+"Baie Comeau","CA",0,"CABCO",49.26,-68.11,33
+"Charlevoix","US",0,"USCSX",45.32,-85.3,33
+"Kushiro","JP",0,"JPKUH",42.99,144.36,33
+"Larnaka","CY",1,"CYLCA",34.92,33.64,33
+"Wallaroo","AU",0,"AUWAL",-33.93,137.62,33
+"Guaiba Island Terminal","BR",0,"BRGUI",-23.01,-44.03,32
+"Porbandar","IN",0,"INPBD",21.62,69.59,32
+"Tauranga","NZ",0,"NZTRG",-37.66,176.17,32
+"Zhangjiabian","CN",0,"CNZJB",22.58,113.54,32
+"Gunsan","KR",0,"KRKUV",35.97,126.5,31
+"Huasco","CL",0,"CLHSO",-28.46,-71.24,31
+"London","GB",1,"GBLON",51.5,0.05,31
+"Albany (AU)","AU",0,"AUALH",-35.04,117.9,30
+"Gallipoli","IT",1,"ITGAL",40.06,17.98,30
+"Hopa","TR",0,"TRHOP",41.41,41.43,30
+"Karlshamn","SE",1,"SEKAN",56.16,14.86,30
+"Lorient","FR",1,"FRLRT",47.73,-3.36,30
+"Luederitz",NA,0,"NALUD",-26.64,15.15,30
+"Pingtan","CN",0,"",25.46,119.72,30
+"Portocel","BR",0,"BRPCL",-19.84,-40.06,30
+"Sinopacific Zhejiang Shipyard","CN",0,"",29.62,121.8,30
+"Tahkoluoto","FI",1,"FITHK",61.63,21.38,30
+"Amuay Bay","VE",0,"VEAMY",11.76,-70.22,29
+"Bodoe","NO",0,"NOBOO",67.29,14.38,29
+"Courrensan Offshore","",0,"",43.99,13.8,29
+"Maloy","NO",0,"NOMAY",61.94,5.14,29
+"Turkmenbashi","TM",0,"TMKRW",39.84,53.1,29
+"Villagarcia","ES",1,"ESVIL",42.6,-8.78,29
+"Basseterre","KN",0,"KNBAS",17.29,-62.71,28
+"Cabedelo","BR",0,"BRCDO",-6.97,-34.84,28
+"Chencun","CN",0,"CNCUN",28.94,119.67,28
+"Haugesund","NO",0,"NO HAU",59.4,5.27,28
+"Husoy","NO",0,"NO HOY",59.34,5.31,28
+"Jose Terminal","VE",0,"VEJOT",10.1,-64.88,28
+"Mahakam River","ID",0,"",-0.66,117.3,28
+"Nassau","BS",0,"BSNAS",25.08,-77.34,28
+"Gamagori","JP",0,"JPGAM",34.81,137.2,27
+"Horta","PT",1,"PTHOR",38.53,-28.62,27
+"Kattupalli","IN",0,"INKAT",13.3,80.36,27
+"L'Ille Rousse","FR",1,"FRILR",42.64,8.94,27
+"Portsmouth (NH)","US",0,"USPSM",43.08,-70.76,27
+"Saijo","JP",0,"JPSAJ",33.93,133.16,27
+"Sandnes","NO",0,"",58.86,5.75,27
+"Mostaganem","DZ",0,"DZMOS",35.94,0.08,26
+"Punta Cardon","VE",0,"VEPCN",11.63,-70.24,26
+"Cairns","AU",0,"AUCNS",-16.93,145.78,25
+"Escanaba","US",0,"USESC",45.77,-87.05,25
+"Hastings","AU",0,"AUHAS",-38.29,145.23,25
+"Huangpu","CN",0,"CNHUA",23.06,113.53,25
+"Jafarabad","IN",0,"INJBD",20.86,71.39,25
+"Luebeck","DE",1,"DELBC",53.89,10.79,25
+"Oskarshamn","SE",1,"SEOSK",57.27,16.48,25
+"Palmetto","US",0,"US PMT",27.63,-82.56,25
+"Providence","US",0,"USPVD",41.79,-71.38,25
+"Sillamae","EE",1,"EESLM",59.42,27.74,25
+"Alcanar","ES",1,"ESACA",40.57,0.55,24
+"Eemshaven","NL",1,"NLEEM",53.45,6.83,24
+"Jizan","SA",0,"SAGIZ",16.89,42.53,24
+"Kavala","GR",1,"GRKVA",40.93,24.4,24
+"Kudamatsu","JP",0,"JPKUD",0.52,117.69,24
+"Naantali","FI",1,"FINLI",60.22,21.81,24
+"Porto Nogaro","IT",1,"ITPNG",45.8,13.23,24
+"Puerto Barrios","GT",0,"GTPBR",15.74,-88.61,24
+"Vindenes","NO",0,"NOAGO",60.41,5.02,24
+"Aberdeen","GB",1,"GBABD",57.14,-2.07,23
+"Anacortes","US",0,"USOTS",48.52,-122.61,23
+"Crockett","US",0,"USCRM",38.06,-122.22,23
+"Fujian Guanhai Shipbuilding","CN",0,"",26.11,119.66,23
+"Galati","RO",1,"ROGAL",45.39,28.02,23
+"Imabari Shipbuilding","JP",0,"JPIMB",34.06,133.01,23
+"Port Sultan Qaboos","OM",0,"OMMCT",23.63,58.57,23
+"Werkendam","NL",1,"NLWKD",51.81,4.88,23
+"Albany","US",0,"USALB",42.61,-73.76,22
+"Birkenhead","GB",1,"GBBRK",53.4,-3.02,22
+"Blyth","GB",1,"GBBLY",55.14,-1.51,22
+"Cherbourg","FR",1,"FRCER",49.65,-1.61,22
+"La Retraite","TT",0,"TTCHA",10.68,-61.64,22
+"Marsa El Brega","LY",0,"LYLMQ",30.42,19.6,22
+"RAK Maritime City","AE",0,"AERMC",25.94,55.96,22
+"San Pedro (ARG)","AR",0,"ARXPD",-33.69,-59.64,22
+"Shajiazhuang","CN",0,"CNSJW",37.83,120.74,22
+"Bejaia","DZ",0,"DZBJA",36.92,5.08,21
+"Cigading","ID",0,"IDCIG",-6.01,105.96,21
+"Keppel Subic Shipyard","PH",0,"",14.88,120.22,21
+"Macau","MO",0,"MOMFM",23.05,113.8,21
+"Marmara Ereglisi","TR",0,"TRMAR",40.96,27.91,21
+"Palm Beach","US",0,"USPAB",26.77,-80.05,21
+"Ploce","HR",1,"HRPLE",43.04,17.44,21
+"Port-la-Nouvelle","FR",1,"FRNOU",43.02,3.06,21
+"Puerto Bolivar","EC",0,"ECPBO",-3.24,-80.01,21
+"Soedertaelje","SE",1,"SESOE",59.13,17.68,21
+"Uenye","TR",0,"TRUNY",41.29,37.11,21
+"Vatika Bay","GR",1,"GRVAB",36.48,23.03,21
+"Vila das Lajes","PT",1,"PTLAJ",39.38,-31.17,21
+"Xinhui","CN",0,"CNXIN",22.3,113.08,21
+"Punta Europa","GQ",0,"GQPET",3.79,8.76,20
+"Timaru","NZ",0,"NZTIU",-44.39,171.26,20
+"Wallhamn","SE",1,"SEWAL",58.01,11.7,20
+"Ashtabula","US",0,"USASF",41.91,-80.79,19
+"Aviles","ES",1,"ESAVS",43.73,-6.19,19
+"Changbai Island","CN",0,"CNCGB",30.16,122.03,19
+"Grenaa","DK",1,"DKGRE",56.42,10.93,19
+"Isthmia","GR",1,"GRITM",37.92,23.02,19
+"Tekirdag","TR",0,"TRTEK",40.93,28.69,19
+"Tsukumi","JP",0,"JPTMI",33.08,132.05,19
+"Crofton","CA",0,"CACRO",48.87,-123.64,18
+"La Goulette","TN",0,"TNRDS",36.81,10.29,18
+"Ba Yu Quan","CN",0,"",35.31,118.41,17
+"Bar","ME",0,"MEBAR",42.09,19.08,17
+"Bartin","TR",0,"TRBTN",41.68,32.24,17
+"Goole","GB",1,"GBGOO",53.7,-0.87,17
+"Hoping","TW",0,"TWHOP",25.23,121.84,17
+"Portland","US",0,"USPQD",43.65,-70.25,17
+"Talcahuano","CL",0,"CLTAL",-36.69,-73.1,17
+"Almeria","ES",1,"ESLEI",36.58,-2.64,16
+"Garston","GB",1,"GBCSN",53.35,-2.91,16
+"Ibiza","ES",1,"ESIBZ",38.91,1.44,16
+"Mariveles","PH",0,"PHMVS",14.42,120.5,16
+"Massawa","ER",0,"ERMSW",15.61,39.48,16
+"Rabigh","SA",0,"SARAB",22.74,38.99,16
+"Sandnessjoen","NO",0,"NOSSJ",66.03,12.64,16
+"Sanya","CN",0,"CNSYX",18.23,109.51,16
+"Sunderland","GB",1,"GBSUN",54.92,-1.37,16
+"Vasteras","SE",1,"SEVST",59.46,17.02,16
+"Wakkanai","JP",0,"JPWKJ",45.41,141.68,16
+"Antalya","TR",0,"TRAYT",36.48,30.74,15
+"Arzev","DZ",0,"DZAZW",35.84,-0.29,15
+"Burnie","AU",0,"AUBWT",-41.05,145.91,15
+"Cap-Haitien","HT",0,"HTCAP",19.76,-72.19,15
+"Fall River","US",0,"USFAV",41.7,-71.18,15
+"Gwangyang","KR",0,"KRKAN",34.88,127.72,15
+"Itea","GR",1,"GRITA",38.44,22.41,15
+"Mukran","DE",1,"DEMUK",54.48,13.59,15
+"Nanao (China)","CN",0,"CNNAN",23.43,117,15
+"Porto Empedocle","IT",1,"ITPEM",37.28,13.53,15
+"Pula","HR",1,"HRPUY",44.87,13.79,15
+"San Joaquin Harbor","US",0,"",38.02,-121.79,15
+"Sochi","RU",0,"RUSOC",43.58,39.72,15
+"Thunder Bay","CA",0,"CATHU",48.36,-89.23,15
+"Uddevalla","SE",1,"",58.34,11.9,15
+"Zwijndrecht","NL",1,"NLZWI",51.81,4.62,15
+"Ardalstangen","NO",0,"NOARD",61.23,7.7,14
+"Arguineguin","ES",1,"ESARI",27.75,-15.67,14
+"Bataan","PH",0,"PHBTN",14.5,120.6,14
+"Bayonne","FR",1,"FRBAY",43.53,-1.51,14
+"Chabahar","IR",0,"IRZBR",25.31,60.59,14
+"Derna","LY",0,"LYDNF",32.76,22.66,14
+"Guanta","VE",0,"VEGUT",10.25,-64.59,14
+"Harwich","GB",1,"GBHRW",51.94,1.28,14
+"Keflavik","IS",0,"ISKEF",64.02,-22.56,14
+"Marquette","US",0,"USMQT",46.55,-87.37,14
+"Otaru","JP",0,"JPOTR",43.2,141.02,14
+"Pietarsaari","FI",1,"FIPRS",63.71,22.69,14
+"Reggio Calabria","IT",1,"ITREG",38.12,15.64,14
+"Salina","CW",0,"",12.08,-68.31,14
+"Siam Maspion LPG Terminal","ID",0,"",-7.11,112.65,14
+"Zhapozhen","CN",0,"",22.87,113.69,14
+"Anjeong","KR",0,"KRANJ",34.94,128.43,13
+"Ardossan","AU",0,"AUARD",-34.44,137.93,13
+"Caen-Ouistreham","FR",1,"FRCFR",49.22,-0.3,13
+"Chalkis","GR",1,"GRCLK",38.43,23.6,13
+"Esperance","AU",0,"AUEPR",-33.87,121.9,13
+"Ipswich","GB",1,"GBIPS",52.04,1.16,13
+"Mariehamn","FI",1,"FIMHQ",60.11,19.92,13
+"Piraeus","GR",1,"GRPIR",37.95,23.61,13
+"Rocky Point","JM",0,"JMROP",17.82,-77.14,13
+"Santos","BR",0,"BRSSZ",-23.95,-46.35,13
+"Tampico","MX",0,"MXTAM",22.21,-97.87,13
+"WEDEL","DE",1,"DEWED",53.57,9.69,13
+"West Sacramento","US",0,"USSAC",38.56,-121.54,13
+"Xiasha","CN",0,"",30.28,120.39,13
+"Fernandina","US",0,"USFEB",30.68,-81.46,12
+"Great Yarmouth","GB",1,"GBGTY",52.58,1.74,12
+"Imperia","IT",1,"ITIMP",43.89,8.04,12
+"Jinzhou","CN",0,"CNJNZ",40.83,121.05,12
+"Les Sables-d'Olonne","FR",1,"FRLSO",46.5,-1.79,12
+"Limay Terminals","PH",0,"PHLIM",14.52,120.62,12
+"Soyo","AO",0,"AOSZA",-6.12,12.32,12
+"Tallinn","EE",1,"EETLL",59.46,24.65,12
+"Tenes","DZ",0,"DZTEN",36.53,1.32,12
+"Vanino","RU",0,"RUVNN",49.09,140.31,12
+"Yangon","MM",0,"MMRGN",16.8,96.18,12
+"Acajutla Offshore Terminal","SV",0,"SVAQJ",13.57,-89.86,11
+"Agio Theodoroi","GR",1,"GRAGT",37.92,23.09,11
+"Ajaccio","FR",1,"FRAJA",41.93,8.74,11
+"Akranes","IS",0,"ISAKR",64.31,-22.08,11
+"Bata","GQ",0,"GQBSG",1.82,9.73,11
+"Bell Bay","AU",0,"AUBEL",-41.14,146.88,11
+"Coryton","GB",1,"GBCOY",51.51,0.54,11
+"Crotone","IT",1,"ITCRV",39.05,17.13,11
+"Galle","LK",0,"LKGAL",6.03,80.23,11
+"Goderich","CA",0,"CAGOH",43.75,-81.73,11
+"Hammerfest","NO",0,"NOHFT",70.65,23.66,11
+"Hikari","JP",0,"JPHKR",33.96,131.93,11
+"Ismajil","UA",0,"UAIZM",45.34,28.79,11
+"Koge","DK",1,"DKKOG",55.46,12.2,11
+NA,"MA",0,"MAEUN",27.09,-13.43,11
+"Puerto Dos Bocas","MX",0,"MXDBT",18.44,-93.19,11
+"Puerto Quequen","AR",0,"ARQQN",-38.57,-58.71,11
+"Runcorn","GB",1,"GBRUN",53.34,-2.75,11
+"Shenhuzhen","CN",0,"CNJJN",24.63,118.68,11
+"Sidi Kerir","EG",0,"EGSKT",31.15,29.6,11
+"Songkhla","TH",0,"THSGZ",7.22,100.57,11
+"Taohua","CN",0,"",29.81,117.74,11
+"Victoria (Canada)","CA",0,"CAVIC",48.42,-123.39,11
+"Zhapeng","CN",0,"",27,120.2,11
+"Akureyri","IS",0,"ISAKU",65.69,-18.09,10
+"Ampelakia","GR",1,"",37.95,23.57,10
+"Astakos","GR",1,"GRAST",38.48,21.1,10
+"Bastia","FR",1,"FRBIA",42.87,9.27,10
+"Beidaihe","CN",0,"",39.83,119.53,10
+"Dahua","CN",0,"",39.36,121.75,10
+"Gandia","ES",1,"ESGAN",39,-0.15,10
+"Limetree Bay","VI",0,"VILIB",17.69,-64.75,10
+"Lucinda","AU",0,"AULUC",-18.52,146.36,10
+"Shenwan","CN",0,"CNSNW",22.28,113.34,10
+"Ushuaia","AR",0,"ARUSH",-54.81,-68.3,10
+"Vung Tau","VN",0,"VNVUT",10.49,106.96,10
+"Zafiro Marine Terminal","CM",0,"",4,9.62,10
+"Bridgetown","BB",0,"BBBGI",13.11,-59.63,9
+"Falmouth","GB",1,"GBFAL",NA,NA,9
+"Jia Hong Kong Logistics","CN",0,"",30.63999167,121.1816108,9
+"Leighton","GB",1,"GBLBZ",53.7316,-0.85495,9
+"Map Ta Phut","TH",0,"THMAT",12.66856833,101.1467083,9
+"Menzel Bourguiba","TN",0,"TNMBA",37.1591025,9.809800833,9
+"Mongla","BD",0,"BDMGL",NA,NA,9
+NA,"DE",1,"",54.3315625,9.790340833,9
+"Risdon","AU",0,"AURDN",NA,NA,9
+"Saint Malo","FR",1,"FRSML",48.64416667,-2.020833333,9
+"Sakata","JP",0,"JPSKT",NA,NA,9
+"San Ciprian","ES",1,"ESSCI",43.705335,-7.4685145,9
+"Calais","FR",1,"FRCQF",50.965545,1.8522725,8
+"Coos Bay","US",0,"USCOB",43.38795,-124.2191667,8
+"Curacao","AN",0,"ANCUR",12.10422333,-68.94225667,8
+"Devonport","AU",0,"AUDPO",NA,NA,8
+"Eden","AU",0,"AUQDN",NA,NA,8
+"Havana","CU",0,"CUHAV",23.14070667,-82.34421667,8
+"Las Calderas","DO",0,"DOLCS",18.21595333,-70.51790667,8
+"Malakka","MY",0,"MYMKZ",NA,NA,8
+"Monte Carlo","MC",0,"MCMCM",8.91246,-79.527485,8
+"Nampo","KP",0,"KPNAM",38.71632,125.40025,8
+"Nanao","JP",0,"JPNNO",NA,NA,8
+"Nyborg","DK",1,"DKNBG",55.29827417,10.80869083,8
+"Port Pirie","AU",0,"AUPPI",-33.16925,138.0137833,8
+"Sibenik","HR",1,"HRSIB",43.69432,15.88231667,8
+"Valleyfield","CA",0,"CAVLF",45.22351667,-74.09283333,8
+"Vysotsk","RU",0,"RUVYS",NA,NA,8
+"Abu Zenima","EG",0,"EGABZ",NA,NA,7
+"Adelaide Bahamas","BS",0,"",24.998481,-77.49585,7
+"Aioi","JP",0,"JPAIO",NA,NA,7
+"Falkenberg","SE",1,"SEFAG",56.8880145,12.4750125,7
+"Husum","DE",1,"DEHUS",54.47227167,9.034316667,7
+"Jian Tiao","CN",0,"",29.05040667,121.6462875,7
+"Mazatlan","MX",0,"MXMZT",23.19821167,-106.4122667,7
+"Sir Bani Yas","AE",0,"",24.27016,52.610841,7
+"Sungai Pakning","ID",0,"IDSEQ",NA,NA,7
+"Visakhapatnam","IN",0,"INVTZ",17.695955,83.2873,7
+"Zonguldak","TR",0,"TRZON",41.46801667,31.78364333,7
+"Arzew El-Djedid","DZ",0,"",35.848861,-0.292644,6
+"Calabar","NG",0,"NGCBQ",5.013563333,8.316106667,6
+"Conneaut","US",0,"USCDY",41.9725,-80.5505,6
+"Cumarebo","VE",0,"VECMR",11.51241667,-69.33111667,6
+"Da Yang Shen Island","CN",0,"",29.96414333,122.2339467,6
+"Gangavaram","IN",0,"INGGV",17.624635,83.240445,6
+"Kappelshamn","SE",1,"SEKPH",57.84306983,18.798786,6
+"Kristinehamn","SE",1,"",59.314937,14.087028,6
+"La Brea","TT",0,"TT LAB",NA,NA,6
+"Mellitah","LY",0,"LYMTH",32.87854333,12.24394167,6
+"Nakskov","DK",1,"DKNAK",54.830507,11.12711667,6
+"Oristano","IT",1,"ITQOS",39.862555,8.552942,6
+"Port Esquivel","JM",0,"JMPEV",NA,NA,6
+"Port Gentil Oil Terminal","GA",0,"GAPOG",NA,NA,6
+"Port-Vendres","FR",1,"FRPOV",42.51861,3.109408333,6
+"Puerto Castilla","HN",0,"HNPCA",NA,NA,6
+"Puerto Marin","ES",1,"ESMPG",42.40265,-8.697166667,6
+"Qeshm Island","IR",0,"IRQSH",NA,NA,6
+"Roenne","DK",1,"DKRNN",55.09864833,14.68818,6
+"Roervik","NO",0,"NORVK",64.85932,11.23762333,6
+"Torrevieja","ES",1,"ESTOR",37.97023,-0.6865109,6
+"Visby","SE",1,"SEVBY",57.637487,18.284765,6
+"Yokosuka","JP",0,"JPYOS",35.291095,139.6885,6
+"Zarzis","TN",0,"TNZRZ",33.48127833,11.12177167,6
+"Bonny","NG",0,"NGBON",4.4394675,7.151578333,5
+"Buffalo","US",0,"USBUF",42.86173,-78.8695575,5
+"Donghaizhen","CN",0,"CNDNG",NA,NA,5
+"El Arish","EG",0,"EGAAC",NA,NA,5
+"Erie","US",0,"USERI",42.1411,-80.08661667,5
+"Hirtshals","DK",1,"DKHIR",57.59538333,9.97185,5
+"Hobart","AU",0,"AUHBA",NA,NA,5
+"Holbak","DK",1,"DKHBK",NA,NA,5
+"Holyhead","GB",1,"GBHLY",53.32783333,-4.6165,5
+"Hopewell","US",0,"",37.062025,-76.7790575,5
+"Juneau","US",0,"USJNU",58.37418333,-134.6589333,5
+"Ketapang","ID",0,"IDKTG",NA,NA,5
+"Kish Island","IR",0,"IRKIH",26.54769,53.99715,5
+"Komatsushima","JP",0,"JPKOM",NA,NA,5
+"Korsakov","RU",0,"RUKOR",NA,NA,5
+"Lorain","US",0,"USLOR",41.47126667,-82.18217833,5
+"Lulea","SE",1,"SELLA",65.57445667,22.169815,5
+"Mongstad","NO",0,"NOMON",60.79416,5.069428333,5
+"Nyugawa","JP",0,"JPNWA",NA,NA,5
+"Olbia","IT",1,"ITOLB",40.92746833,9.535206667,5
+"Port Latta","AU",0,"AUPLA",-40.8339,145.3894833,5
+"Port Louis","MU",0,"MUPLU",-20.15,57.4915,5
+"Reni","UA",0,"UARNI",45.4164,28.287875,5
+"Scheveningen","NL",1,"NLSCE",52.102,4.258,5
+"Sirri island","IR",0,"IRSXI",25.897,54.5545,5
+"Sulina","RO",1,"ROSUL",45.17518,29.382225,5
+"Tazerka Terminal","TN",0,"TNTAT",36.75386667,11.794465,5
+"Tianjigang","CN",0,"",21.58718417,108.4738008,5
+"Warri","NG",0,"NGWAR",5.511995,5.719821667,5
+"Yunyao","CN",0,"",37.54774167,122.0913867,5
+"Zhangzhou","CN",0,"CNZZU",24.41093,118.0476,5
+"Antibes","FR",1,"FRANT",43.5864,7.1266285,4
+"Bayside Harbour","CA",0,"CABAY",NA,NA,4
+"Diamante","AR",0,"ARDME",NA,NA,4
+"Dung Quat","VN",0,"VNDQT",15.41290167,108.7951183,4
+"Fuzhou","CN",0,"CNFOC",NA,NA,4
+"Harlingen","NL",1,"NLHAR",53.32182667,5.147001667,4
+"Jinguzhou","CN",0,"CNJGU",NA,NA,4
+"Kharg Island","IR",0,"IRKHK",29.242018,50.333035,4
+"Kurihama","JP",0,"JPKRH",35.22279333,139.7177408,4
+"Lowestoft","GB",1,"GBLOW",52.4776665,1.757583333,4
+"Marmaris","TR",0,"TRMRM",NA,NA,4
+"Marsden Point","NZ",0,"NZMAP",NA,NA,4
+"Matsushima","JP",0,"JPMAT",NA,NA,4
+"Mourilyan","AU",0,"AUMOU",NA,NA,4
+"Noumea","NC",0,"NCNOU",-22.27534,166.4347,4
+"Ogdensburg","US",0,"USOGS",44.59261833,-75.6345625,4
+"Pensacola","US",0,"USPNS",30.40043167,-87.20643333,4
+"Port-Grimaud","FR",1,"FRUDD",NA,NA,4
+"Portland UK","GB",1,"GBPTL",50.57115,-2.441016667,4
+"Progreso","MX",0,"MXPGO",21.3456,-89.68165,4
+"San Pedro","CI",0,"CISPY",4.740993333,-6.616901667,4
+"Searsport","US",0,"USSRP",44.450325,-68.89601667,4
+"Slovag","NO",0,"NOSLV",60.75789667,5.068383333,4
+"Suez","EG",0,"EGSUZ",29.94315,32.551355,4
+"Suralaya","ID",0,"IDSRL",-5.878615,106.027994,4
+"Swansea","GB",1,"GBSWA",51.6164425,-3.917991667,4
+"Torre Annunziata","IT",1,"ITTOA",40.751133,14.4479,4
+"Uerdingen","DE",1,"DEKRE",51.3505,6.6685,4
+"Yongjun","CN",0,"",29.76256667,122.14915,4
+"Zanzibar","TZ",0,"TZZNZ",-4.625026667,55.46216667,4
+"Andenes","NO",0,"NOADN",69.23886333,16.23307583,3
+"Balchik","BG",1,"BGBAL",43.20883333,28.10575,3
+"Burriana","ES",1,"ESBRX",39.853075,-0.069283333,3
+"Cam Pha","VN",0,"VNCPH",NA,NA,3
+"Carino","ES",1,"ESCNO",NA,NA,3
+"Corcubion","ES",1,"ESCCN",42.93831,-9.183333333,3
+"Dongshi","CN",0,"CNDSI",NA,NA,3
+"Dundee","GB",1,"GBDUN",NA,NA,3
+"Funchal","PT",1,"PTFNC",32.64296667,-16.9146,3
+"Green Bay","US",0,"USGRB",44.6084,-87.94031667,3
+"Honfleur","FR",1,"FRHON",49.45373833,0.361783333,3
+"Humber","GB",1,"GBNHO",53.71010667,-0.366091667,3
+"Hundested","DK",1,"DKHUN",NA,NA,3
+"Iquique","CL",0,"CLIQQ",-20.201835,-70.15024,3
+"Kanda","JP",0,"JPKND",34.99519333,139.6449967,3
+"La Libertad","EC",0,"ECLLD",-2.1895,-80.912,3
+"Lavrio","GR",1,"GRLAV",37.70966,24.062,3
+"Lengeh","IR",0,"",26.54124083,54.90027833,3
+"Lidkoping","SE",1,"SELDK",58.50866183,13.16458017,3
+"Messina","IT",1,"ITMSN",38.17568333,15.58572,3
+"Milazzo","IT",1,"ITMLZ",NA,NA,3
+"Mohammedia","MA",0,"MAMOH",33.72537333,-7.389106667,3
+"New Haven","US",0,"USHVN",NA,NA,3
+"New London","US",0,"USNLO",NA,NA,3
+"Omi","JP",0,"JPAOM",NA,NA,3
+"Oshawa","CA",0,"CAOSH",43.8551,-78.81,3
+"Papenburg","DE",1,"DEPAP",53.09890667,7.392341667,3
+"Pasajes","ES",1,"ESPAS",43.32203333,-1.919275,3
+"Port Alma","AU",0,"AUPTL",-23.58327167,150.8631667,3
+"Port de Soller","ES",1,"ESSOL",39.699365,2.289498333,3
+"Punta Morales","CR",0,"CRPUM",NA,NA,3
+"Qalhat","OM",0,"OMQAL",22.652125,59.43741667,3
+"Skagen","DK",1,"DKSKA",57.71746417,10.58809417,3
+"Skien","NO",0,"NOSKE",59.12196167,9.56487,3
+"Songmenzhen","CN",0,"CNSMN",NA,NA,3
+"Sunny Point Terminal","US",0,"USSUT",34.00349,-77.95267,3
+"Tramandai","BR",0,"BRTRM",-30.01354,-50.09763,3
+"Useless Loop","AU",0,"AUUSL",-26.10982,113.4099,3
+"Vejle","DK",1,"DKVEJ",55.68757583,9.652899167,3
+"Viana do Castelo","PT",1,"PTVDC",NA,NA,3
+"Wewelsfleth","DE",1,"DEWEW",53.84118167,9.406135833,3
+"Ystad","SE",1,"SEYST",55.42428333,13.82312333,3
+"Aliveri Bay","GR",1,"",38.25452,24.0919475,2
+"Anqing","CN",0,"CNAQG",NA,NA,2
+"Avedore","DK",1,"DKVRE",55.59998083,12.48461333,2
+"Basel","CH",0,"CHBSL",47.56791,7.6072045,2
+"Bay City","US",0,"USBCY",43.62083333,-83.84231667,2
+"Bedi Bunder","IN",0,"INBED",22.56501667,69.82909083,2
+"Berdiansk","UA",0,"UAERD",NA,NA,2
+"Breskens","NL",1,"NLBRS",NA,NA,2
+"Broome","AU",0,"AUBME",-18.00228167,122.217925,2
+"Castanas","PH",0,"PHCST",NA,NA,2
+"Das Island","AE",0,"AEDAS",25.1465,52.891,2
+"Den Helder","NL",1,"NLDHR",52.9534,4.7811,2
+"Denpasar","ID",0,"IDDPS",NA,NA,2
+"Dieppe","FR",1,"FRDPE",49.96455,0.754803333,2
+"Dikili","TR",0,"TRDIK",39.06226833,26.8164775,2
+"Donghae","KR",0,"KRTGH",45.92273667,136.6431233,2
+"Dongtou","CN",0,"",27.855538,121.123944,2
+"Dover","GB",1,"GBDVR",NA,NA,2
+"Duisburg","DE",1,"DEDUI",51.4455,6.7475,2
+"Foshan","CN",0,"CNFOS",22.98414167,113.1326567,2
+"Frederikshavn","DK",1,"DKFDH",57.4365,10.542,2
+"Gamboa","PA",0,"PAGBA",9.116353333,-79.70426667,2
+"Grimsby","GB",1,"GBGSY",NA,NA,2
+"Groningen","NL",1,"NLGRQ",53.217904,6.597536,2
+"Guayama","PR",0,"PRGMA",17.93718167,-66.158045,2
+"Gushikawa","JP",0,"JPGKA",NA,NA,2
+"Gwadar","PK",0,"PKGWD",25.11141,62.343035,2
+"Hanstholm","DK",1,"DKHAN",57.25477417,8.508858333,2
+"Horsens","DK",1,"DKHOR",55.85655,9.86755,2
+NA,"GR",1,"GRIGO",NA,NA,2
+"Isabel","PH",0,"PHISL",NA,NA,2
+"Jingzhou","CN",0,"CNJGZ",29.533185,113.19564,2
+"Kolobrzeg","PL",1,"PLKOL",54.182785,15.55687,2
+"Kraljevica","HR",1,"HRKRA",NA,NA,2
+"Kualatanjung","ID",0,"IDKTJ",NA,NA,2
+"Kunda","EE",1,"EEKUN",NA,NA,2
+"Lakkion","GR",1,"GRPKK",37.16409083,26.79287333,2
+"Lelystad","NL",1,"NLLEY",52.52607,5.44094,2
+"Ligang Shipyard","",0,"",NA,NA,2
+"Luchaogang Ferry","CN",0,"",30.84043833,121.8185817,2
+"Manaus","BR",0,"BRMAO",-2.1245375,-54.27249583,2
+"Merak","ID",0,"IDMRK",-5.9446335,105.9917,2
+"Mersrags","LV",1,"LVMRX",NA,NA,2
+"Norddeich","DE",1,"DENOE",NA,NA,2
+"Nykobing Falster","DK",1,"DKNYF",54.76418333,11.86536667,2
+"Palamos","ES",1,"ESPAL",41.83946667,3.11685,2
+"Point Fortin","TT",0,"TTPTF",10.2005,-61.6965,2
+"Port Mellon","CA",0,"CAPML",49.51900833,-123.485305,2
+"Preveza","GR",1,"GRPVK",38.95740833,20.757825,2
+"Puerto Madryn","AR",0,"ARPMY",NA,NA,2
+"SHI Rongcheng Shipyard","",0,"",NA,NA,2
+"Sarpsborg","NO",0,"NOSPG",NA,NA,2
+"Sharpness","GB",1,"GBSSS",51.72003917,-2.476109167,2
+"Shoreham","GB",1,"GBSHO",50.83009167,-0.242333333,2
+"Sidon","LB",0,"",33.56732667,35.36654833,2
+"Slavyanka","RU",0,"RUSKA",NA,NA,2
+"Takuma","JP",0,"JPTKM",NA,NA,2
+"Teluk Ewa","MY",0,"",6.447588333,99.73154167,2
+"Turku","FI",1,"FITKU",60.42881833,22.19537,2
+"Vung Ang","VN",0,"",18.121107,106.405541,2
+NA,"SE",1,"SEVVK",NA,NA,2
+"Xiajiawan","CN",0,"",23.08659,113.401975,2
+"Al Duqm","OM",0,"",19.66433333,57.71543333,1
+"Ashtart Terminal","TN",0,"TNASH",NA,NA,1
+"Az Zawiyah","LY",0,"LYZAW",NA,NA,1
+"Azov","RU",0,"RUAZO",NA,NA,1
+"Baitkal Cove","IN",0,"INKRW",NA,NA,1
+"Bandar Anzali","IR",0,"IRBAZ",NA,NA,1
+"Barletta","IT",1,"ITBLT",41.78595,16.31913333,1
+"Basse-Terre (Guadeloupe)","GP",0,"GPBBR",NA,NA,1
+"Bautino","KZ",0,"KZBTN",NA,NA,1
+"Belawan","ID",0,"IDBLW",1.266875,103.315295,1
+"Beypore","IN",0,"INBEY",NA,NA,1
+"Borkum","DE",1,"DEBMK",11.85581667,-15.57548333,1
+"Boulogne-sur-Mer","FR",1,"FRBOL",50.7466,1.53845,1
+"Brugge","BE",1,"BEEGS",51.22986667,3.223016667,1
+"Cascais","PT",1,"PTCAS",8.876573333,-79.53657167,1
+"Cheboygan","US",0,"USCHG",45.65278333,-84.468,1
+"Chemainus","CA",0,"CACHM",NA,NA,1
+"Chittagong","BD",0,"BDCGP",NA,NA,1
+"Concarneau","FR",1,"FRCOC",NA,NA,1
+"Concepcion del Uruguay","AR",0,"ARCOU",NA,NA,1
+"Dagenham","GB",1,"GBDAG",NA,NA,1
+"Denton (Newhaven)","GB",1,"GBDET",NA,NA,1
+"Deseado","AR",0,"ARPUD",-42.73627167,-65.023165,1
+"Dombraina Boiotias","GR",1,"GRDMB",NA,NA,1
+"Dutch Harbor","US",0,"USDUT",53.8784,-166.55135,1
+"Egersund","NO",0,"NOEGE",NA,NA,1
+"El Palito","VE",0,"VEELP",10.49752,-68.13652,1
+"Erha Offshore Terminal","NG",0,"NGERT",NA,NA,1
+"Erlangen","DE",1,"DEERL",NA,NA,1
+"Faro","PT",1,"PTFAO",37.00230667,-7.918541667,1
+"Fawley","GB",1,"GBFAW",50.83841,-1.32924,1
+"Forno","BR",0,"BRFNO",-22.97117833,-42.016115,1
+"Fortaleza","BR",0,"BRFOR",-12.95701333,-38.50917,1
+"Fuqing Songxia","CN",0,"CNFUG",NA,NA,1
+"Giessendam","NL",1,"NLGSM",51.8195,4.8265,1
+"Gravesend","GB",1,"GBGVS",51.445,0.38659675,1
+"Gunness","GB",1,"GBGUS",53.622085,-0.709135,1
+"Haian","CN",0,"CNHAA",NA,NA,1
+"Halul Island","QA",0,"QAHAL",NA,NA,1
+"Hanoytangen","NO",0,"NOASY",60.44,5.102816667,1
+"Hans Weert","NL",1,"NLHAAN",51.39279333,3.712693333,1
+"Helsingor","HD",0,"HDKHLS",56.032333,12.631917,1
+"Hochdonn","DE",1,"DEHOD",54.0195,9.2945,1
+"Hongxing","CN",0,"CNYIU",31.615895,121.39294,1
+"Huizhou Oil Terminal","AR",0,"",-45.86429167,-67.44523167,1
+"Janghang Seocheon-gun","KR",0,"KRCHG",NA,NA,1
+"Jiangmen","CN",0,"CNJMN",NA,NA,1
+"Jitou","",0,"",NA,NA,1
+"Kalymnos","GR",1,"GRKMI",36.94849167,26.99364833,1
+"Kamaishi","JP",0,"JPKIS",39.26466667,141.9091,1
+"Kilroot","GB",1,"GBKLT",NA,NA,1
+"Koolan Island","AU",0,"AUKOI",NA,NA,1
+"La Seyne sur Mer","FR",1,"FRYNE",43.10761667,5.8957,1
+"Le Teport","FR",1,"FRLTR",50.062405,1.382253333,1
+"Luba","GQ",0,"GQLUB",NA,NA,1
+"Lubmin","DE",1,"DELBM",NA,NA,1
+"Maceio","BR",0,"BRMC",-9.679848333,-35.72459667,1
+"Mahon","ES",1,"ESMAH",39.24438333,3.050951667,1
+"Mar del Plata","AR",0,"ARMDQ",-38.0457,-57.535325,1
+"Matarani","PE",0,"PEMRI",NA,NA,1
+"Mellitah (Qasr Ahmed) Terminal","LY",0,"LYMEL",32.87784,12.24804,1
+"Milford Haven","GB",1,"GBMLF",51.70088833,-5.034108333,1
+"Millingen","NL",1,"NLMLR",51.868,6.053,1
+"Moji","JP",0,"JP MOJ",NA,NA,1
+"Naoetsu","JP",0,"JPNAO",NA,NA,1
+"New Amsterdam","GY",0,"GYNAM",NA,NA,1
+"Nuernberg","DE",1,"DENUE",NA,NA,1
+"Olafsvik","IS",0,"ISOLV",NA,NA,1
+"Passau","DE",1,"DEPAS",NA,NA,1
+"Perafita Offshore Terminal","PT",1,"PTPFT",NA,NA,1
+"Peterhead","GB",1,"GBPHD",NA,NA,1
+"Plomin","HR",1,"HR PLM",NA,NA,1
+"Port Fourchon","US",0,"USFOC",29.29924,-89.36871,1
+"Port Reunion","RE",0,"RE",NA,NA,1
+"Port-Saint-Louis-du-Rhone","FR",1,"FRPSL",NA,NA,1
+NA,"EE",1,"EEPRN",NA,NA,1
+"Quy Nhon","VN",0,"VNUIH",NA,NA,1
+"Regensburg","DE",1,"DEREG",NA,NA,1
+"Rodby","DK",1,"DKAAX",54.37277833,10.17723167,1
+"Roomassaare","EE",1,"EERMS",58.19796833,22.50647333,1
+"Saint John","CA",0,"CASJB",45.265,-66.054,1
+"Saint Tropez","FR",1,"FRSTP",NA,NA,1
+"Samudra Shipyard","IN",0,"",9.887545,76.295381,1
+"San Antonio Este","AR",0,"ARSAE",NA,NA,1
+"San Jose Oil Terminal","GT",0,"GTSNJ",13.89483333,-90.80933333,1
+"San Remo","IT",1,"ITSRE",42.86239,6.384328333,1
+"Sanshui","CN",0,"CNSJQ",23.06920167,112.9727717,1
+"Shunde","CN",0,"CNSUD",21.48574,111.0645167,1
+"Snake River","",0,"",NA,NA,1
+"Stralsund","DE",1,"DESTL",NA,NA,1
+"Taganrog","RU",0,"RUTAG",NA,NA,1
+NA,"DE",1,"DETAE",NA,NA,1
+"Termini Imerese","IT",1,"ITTRI",37.986995,13.708695,1
+"Tofte","NO",0,"NONZH",59.112955,10.581152,1
+"Tokachi","JP",0,"JPTOK",NA,NA,1
+"Tongling","CN",0,"CNTOL",NA,NA,1
+"Tulcea","RO",1,"ROTCE",45.193125,28.805135,1
+"Turbo","CO",0,"COTRB",NA,NA,1
+"Tyboroen","DK",1,"DKTYB",56.6975,8.219516667,1
+"Vadinar Terminal","IN",0,"INVAD",22.50657833,69.761585,1
+"Vilanova","ES",1,"ESVLG",NA,NA,1
+"West Haven","US",0,"USWHC",NA,NA,1
+"Wladyslawowo","PL",1,"PLWLA",NA,NA,1
+NA,"DE",1,"DEWUE",NA,NA,1
+"Xinxing","CN",0,"CNXNI",22.1325,113.8469317,1
+"Yizheng","CN",0,"CNYIZ",32.2509,119.16915,1

@@ -1,0 +1,57 @@
+/* styles.css */
+body {
+  background: linear-gradient(to bottom right, #00ff7f, #008080);
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card {
+  background: rgba(0, 128, 0, 0.3);
+  border: 1px solid #00ff7f;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 128, 0, 0.3);
+}
+
+.card-header, .card-footer {
+  background: rgba(0, 128, 0, 0.5);
+  color: #ffffff;
+}
+
+.btn-primary {
+  background-color: #32cd32;
+  border-color: #32cd32;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: #228b22;
+  border-color: #228b22;
+}
+
+.value-box {
+  background: rgba(0, 128, 0, 0.5);
+  color: #ffffff;
+  font-size: 1.5em;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.value-box .bs-icon, .value-box .fa {
+  font-size: 0.75em; /* Adjust the size as needed */
+}
+
+.leaflet-container {
+  height: 600px;
+  width: 100%;
+}
+
+h2 {
+  color: #32cd32;
+}
+
+.route-details {
+  color: #000000; /* Black text color for better readability */
+  background-color: rgba(255, 255, 255, 0.8); /* Light background for better contrast */
+  padding: 10px;
+  border-radius: 5px;
+}
