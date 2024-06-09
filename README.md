@@ -1,4 +1,4 @@
-# Boat CO2 App <img src="https://github.com/tomastravis/boat-co2-app/blob/main/www/logo.png" alt="Logo" width="70" />
+# Boat CO2 App <img src="https://github.com/tomastravis/boat-co2-app/blob/main/www/logo.png" alt="Logo" width="40" />
 
 ## Description
 
