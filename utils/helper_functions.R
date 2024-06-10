@@ -8,6 +8,7 @@ library(sp)          # For spatial data classes and methods
 library(sf)          # For working with spatial data
 library(mapview)     # For interactive viewing of spatial data
 library(tidyverse)   # For data manipulation and visualization
+library(scales)      # For correct number manipulation
 
 ### Set map limits
 # Define latitude and longitude limits for the map
@@ -99,14 +100,14 @@ map_route <- function(x, boat_name, start_coords, end_coords) {
     addCircleMarkers(lng = start_coords[1], lat = start_coords[2], color = "green", radius = 5, label = "Start Point") %>%
     addCircleMarkers(lng = end_coords[1], lat = end_coords[2], color = "red", radius = 5, label = "End Point")
   
-  total_fuel_consumption <- fuel_consumption * x[[2]]
-  total_emissions <- emissions * x[[2]]
+  total_fuel_consumption <- fuel_consumption * x[[2]] / 1000
+  total_emissions <- emissions * x[[2]] / 1000
   
   list(
     map = route_map,
-    nautical_miles = x[[2]],
-    total_fuel_consumption = total_fuel_consumption,
-    total_emissions = total_emissions
+    nautical_miles = comma(x[[2]], accuracy = 0.1),
+    total_fuel_consumption = comma(total_fuel_consumption, accuracy = 0.1),
+    total_emissions = comma(total_emissions, accuracy = 0.1)
   )
 }
 
