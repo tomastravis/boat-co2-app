@@ -19,7 +19,7 @@ ui <- page_sidebar(
       card_header("Select Boat"),
       div(
         style = "position: relative; z-index: 1050 ; overflow: visible;",
-        selectizeInput("selected_boat", "Choose a boat:", choices = boat_names, options = list(dropdownParent = 'body'))
+        selectizeInput("selected_boat", "Choose a boat:", choices = boat_names, selected = "MARCO POLO", options = list(dropdownParent = 'body'))
       )),
     card(
       card_header("Route Planning Mode"),
