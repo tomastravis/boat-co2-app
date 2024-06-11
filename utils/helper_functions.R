@@ -105,7 +105,7 @@ map_route <- function(x, boat_name, start_coords, end_coords) {
   
   list(
     map = route_map,
-    nautical_miles = comma(x[[2]], accuracy = 0.1),
+    nautical_miles = comma(x[[2]]),
     total_fuel_consumption = comma(total_fuel_consumption, accuracy = 0.1),
     total_emissions = comma(total_emissions, accuracy = 0.1)
   )
