@@ -144,7 +144,7 @@ server <- function(input, output, session) {
     
     output$fuel_consumption <- renderValueBox({
       value_box(
-        title = "Fuel Consumption (kg)",
+        title = "Fuel Consumption (tonnes)",
         value = route_info$total_fuel_consumption,
         showcase = bsicons::bs_icon("fuel-pump", fallback = icon("gas-pump")),
         theme = "orange"
@@ -153,7 +153,7 @@ server <- function(input, output, session) {
     
     output$co2_emissions <- renderValueBox({
       value_box(
-        title = "CO2 Emissions (kg)",
+        title = "CO2 Emissions (tonnes)",
         value = route_info$total_emissions,
         showcase = bsicons::bs_icon("cloud", fallback = icon("cloud")),
         theme = "red"
