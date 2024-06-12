@@ -83,7 +83,7 @@ server <- function(input, output, session) {
   })
   
   output$selected_boat_imo <- renderText({
-    paste("IMO:", filter(boat_co2_data_list, name == input$selected_boat)$imo)
+    paste(c("IMO:","Name:", "Ship Type:", "Fuel consumption per nm on laden:", "CO2 emissions per nm on laden:" ), filter(boat_co2_data_list, name == input$selected_boat))
   })
   
   output$welcome_message <- renderText({
