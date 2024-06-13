@@ -72,7 +72,8 @@ ui <- page_sidebar(
     )
   ),
   textOutput("selected_boat_name"),
-  textOutput("selected_boat_imo")
+  textOutput("selected_boat_imo"),
+  textOutput("selected_boat_type")
 )
 
 # Define server logic ----
@@ -83,7 +84,11 @@ server <- function(input, output, session) {
   })
   
   output$selected_boat_imo <- renderText({
-    paste(c("IMO:","Name:", "Ship Type:", "Fuel consumption per nm on laden:", "CO2 emissions per nm on laden:" ), filter(boat_co2_data_list, name == input$selected_boat))
+    paste("IMO: ", filter(boat_co2_data_list, name == input$selected_boat)$imo)
+  })
+  
+  output$selected_boat_type <- renderText({
+    paste("Ship Type: ", filter(boat_co2_data_list, name == input$selected_boat)$ship_type)
   })
   
   output$welcome_message <- renderText({
