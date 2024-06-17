@@ -13,14 +13,14 @@ source("utils/app_utils.R")
 
 # Define UI ----
 ui <- page_sidebar(
-  title = div(img(src = "logo.png", height = "30px"), "Boat CO2"),
+  title = div(style = "font-size: 25px;",img(src = "logo.png", height = "70px"), "Boat CO2"),
   sidebar = sidebar(
     card(
       card_header("Select Boat"),
       div(
-        style = "position: relative; z-index: 1050 ; overflow: visible;",
-        selectizeInput("selected_boat", "Choose a boat:", choices = boat_names, selected = "MARCO POLO", options = list(dropdownParent = 'body'))
-      )),
+        style = "position: relative; z-index: 1050; overflow: visible;",
+        selectizeInput("selected_boat", "Choose a boat:", choices = boat_names, options = list(dropdownParent = 'body')))
+      ),
     card(
       card_header("Route Planning Mode"),
       radioButtons("planning_mode", "Choose route planning mode:",
@@ -45,7 +45,7 @@ ui <- page_sidebar(
       card(
         card_header("Select Initial Port"),
         div(
-          style = "position: relative; z-index: 9999 !important; overflow: visible;",
+          style = "position: relative; z-index: 1050; overflow: visible;",
           selectizeInput("initial_port", "Choose initial port:", choices = port_names, selected = "Sevilla", options = list(dropdownParent = 'body'))
         )),
       card(
@@ -61,19 +61,20 @@ ui <- page_sidebar(
       )
     )
   ),
-  titlePanel("Boat CO2 Dashboard"),
-  textOutput("welcome_message"),
+  tags$head(
+    tags$link(rel = "stylesheet", type = "text/css", href = "styles.css")
+  ),
+  titlePanel("Maritime Route Carbon Footprint Estimation"),
   card(
     leafletOutput("map"),
     fluidRow(
       column(4, valueBoxOutput("nautical_miles")),
       column(4, valueBoxOutput("fuel_consumption")),
       column(4, valueBoxOutput("co2_emissions"))
-    )
+    ),
+    textOutput("welcome_message")
   ),
-  textOutput("selected_boat_name"),
-  textOutput("selected_boat_imo"),
-  textOutput("selected_boat_type")
+  textOutput("selected_boat_name")
 )
 
 # Define server logic ----
@@ -81,14 +82,6 @@ server <- function(input, output, session) {
   
   output$selected_boat_name <- renderText({
     paste("Selected Boat:", input$selected_boat)
-  })
-  
-  output$selected_boat_imo <- renderText({
-    paste("IMO: ", filter(boat_co2_data_list, name == input$selected_boat)$imo)
-  })
-  
-  output$selected_boat_type <- renderText({
-    paste("Ship Type: ", filter(boat_co2_data_list, name == input$selected_boat)$ship_type)
   })
   
   output$welcome_message <- renderText({
@@ -145,10 +138,10 @@ server <- function(input, output, session) {
     # Update the value in the value boxes to display the route information
     output$nautical_miles <- renderValueBox({
       value_box(
-        title = "Nautical Miles",
+        title = "Distance (Nautical Miles)",
         value = route_info$nautical_miles,
-        #showcase = bsicons::bs_icon("bar-chart", fallback = icon("chart-bar")),
-        theme = "teal"
+        showcase = bsicons::bs_icon("bar-chart", fallback = icon("chart-bar")),
+        theme = "red"
       )
     })
     
@@ -156,8 +149,8 @@ server <- function(input, output, session) {
       value_box(
         title = "Fuel Consumption (tonnes)",
         value = route_info$total_fuel_consumption,
-        #showcase = bsicons::bs_icon("fuel-pump", fallback = icon("gas-pump")),
-        theme = "orange"
+        showcase = bsicons::bs_icon("fuel-pump", fallback = icon("gas-pump")),
+        theme = "red"
       )
     })
     
@@ -165,7 +158,7 @@ server <- function(input, output, session) {
       value_box(
         title = "CO2 Emissions (tonnes)",
         value = route_info$total_emissions,
-        #showcase = bsicons::bs_icon("cloud", fallback = icon("cloud")),
+        showcase = bsicons::bs_icon("cloud", fallback = icon("cloud")),
         theme = "red"
       )
     })
