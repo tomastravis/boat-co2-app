@@ -8,6 +8,7 @@ library(sp)          # For spatial data classes and methods
 library(sf)          # For working with spatial data
 library(mapview)     # For interactive viewing of spatial data
 library(tidyverse)   # For data manipulation and visualization
+library(scales)      # For correct number manipulation for the dashboard
 
 ### Set map limits
 # Define latitude and longitude limits for the map
@@ -104,9 +105,9 @@ map_route <- function(x, boat_name, start_coords, end_coords) {
   
   list(
     map = route_map,
-    nautical_miles = x[[2]],
-    total_fuel_consumption = total_fuel_consumption,
-    total_emissions = total_emissions
+    nautical_miles = comma(x[[2]], accuracy = 0.1),
+    total_fuel_consumption = comma(total_fuel_consumption, accuracy = 0.1),
+    total_emissions = comma(total_emissions, accuracy = 0.1)
   )
 }
 
