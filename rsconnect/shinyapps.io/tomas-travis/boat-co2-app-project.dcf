@@ -1,0 +1,12 @@
+name: boat-co2-app-project
+title: boat-co2-app-project
+username: tomas-travis
+account: tomas-travis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12178048
+bundleId: 8738646
+url: https://tomas-travis.shinyapps.io/boat-co2-app-project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
