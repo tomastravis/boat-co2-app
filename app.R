@@ -1,10 +1,8 @@
 library(shiny)
 library(bslib)
-library(leaflet)
 library(shinydashboard)
 library(flexdashboard)
 library(data.table)
-library(dplyr)
 library(bsicons)
 
 # Load helper functions
@@ -71,7 +69,9 @@ ui <- page_sidebar(
       column(4, valueBoxOutput("co2_emissions"))
     )
   ),
-  textOutput("selected_boat_name")
+  textOutput("selected_boat_name"),
+  textOutput("selected_boat_imo"),
+  textOutput("selected_boat_type")
 )
 
 # Define server logic ----
@@ -79,6 +79,14 @@ server <- function(input, output, session) {
   
   output$selected_boat_name <- renderText({
     paste("Selected Boat:", input$selected_boat)
+  })
+  
+  output$selected_boat_imo <- renderText({
+    paste("IMO: ", filter(boat_co2_data_list, name == input$selected_boat)$imo)
+  })
+  
+  output$selected_boat_type <- renderText({
+    paste("Ship Type: ", filter(boat_co2_data_list, name == input$selected_boat)$ship_type)
   })
   
   output$welcome_message <- renderText({
