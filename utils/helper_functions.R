@@ -1,31 +1,45 @@
 # Load required libraries
-library(data.table)  # For efficient data manipulation
-library(dplyr)       # For data manipulation and transformation
-library(leaflet)     # For interactive maps
-library(igraph)      # For graph manipulation and analysis
-library(sp)          # For spatial data classes and methods
-#library(rgdal)       For spatial data I/O
-library(sf)          # For working with spatial data
-library(mapview)     # For interactive viewing of spatial data
-library(tidyverse)   # For data manipulation and visualization
+library(data.table)  # Efficient data manipulation
+library(dplyr)       # Data manipulation and transformation
+library(leaflet)     # Interactive maps
+library(igraph)      # Graph manipulation and analysis
+library(sp)          # Spatial data classes and methods
+#library(rgdal)      # Spatial data I/O
+library(sf)          # Working with spatial data
+library(mapview)     # Interactive viewing of spatial data
+library(tidyverse)   # Data manipulation and visualization
 library(scales)      # For correct number manipulation
 
-### Set map limits
-# Define latitude and longitude limits for the map
-#lon_max = 179.9999
-#lon_min = (-179.9999)
-#lat_max = 89.9999
-#lat_min = (-89.9999)
 
-# Load Haversine distance function
-source("utils/dtHaversine_function.R")
+################################################################################################
+# Function to calculate the Haversine distance between two points given their latitudes and 
+# longitudes, where r is the equatorial raius of the Earth in km
+dtHaversine <- function(lat_from, lon_from, lat_to, lon_to, r = 6378137) {
+  
+  # Convert degrees to radians for trigonometric calculations
+  radians <- pi/180
+  
+  # Convert latitude and longitude values to radians
+  lat_to <- lat_to * radians
+  lat_from <- lat_from * radians
+  lon_to <- lon_to * radians
+  lon_from <- lon_from * radians
+  
+  # Calculate differences in latitude and longitude
+  dLat <- (lat_to - lat_from)
+  dLon <- (lon_to - lon_from)
+  
+  # Haversine formula for distance calculation
+  a <- (sin(dLat/2)^2) + (cos(lat_from) * cos(lat_to)) * (sin(dLon/2)^2)
+  
+  # Calculate the distance using the Haversine formula
+  distance <- 2 * atan2(sqrt(a), sqrt(1 - a)) * r
+  
+  # Return the calculated distance
+  return(distance)
+}
 
-# Load the CSV file and extract unique boat names and port names
-boat_co2_data_list <- fread("data/boat_co2_data_list.csv")
-boat_names <- unique(boat_co2_data_list$name)
-ports_data <- fread("data/ports_data.csv")  # Assuming you have a CSV file with port data
-port_names <- unique(ports_data$PORT)
-
+################################################################################################
 ### Shortest route function
 find_route <- function(graph, V1, V2, extra_distance) {
   # Find shortest path between two nodes in a graph
@@ -60,6 +74,7 @@ find_route <- function(graph, V1, V2, extra_distance) {
   return(list(route, distance))
 }
 
+################################################################################################
 ### Function to plot the map with the route
 map_route <- function(x, boat_name, start_coords, end_coords) {
   route <- x[[1]]
@@ -111,8 +126,7 @@ map_route <- function(x, boat_name, start_coords, end_coords) {
   )
 }
 
-
-
+################################################################################################
 ### Function to find the closest cluster/node in a graph
 find_closest_cluster <- function(lon, lat) {
   set_points <- dt  # Dataset containing cluster coordinates

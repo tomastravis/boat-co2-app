@@ -1,10 +1,8 @@
 library(shiny)
 library(bslib)
-library(leaflet)
 library(shinydashboard)
 library(flexdashboard)
 library(data.table)
-library(dplyr)
 library(bsicons)
 
 # Load helper functions
