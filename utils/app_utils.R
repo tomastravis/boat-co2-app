@@ -1,5 +1,5 @@
 library(here)
-
+library(igraph)
 source("utils/helper_functions.R")
 
 # Read network data and cluster coordinates from CSV files

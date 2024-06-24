@@ -137,7 +137,7 @@ server <- function(input, output, session) {
     route_info <- map_route(best_route, input$selected_boat, start_coords, end_coords)
     output$map <- renderLeaflet({
       route_info$map %>%
-        addProviderTiles(providers$Stadia.StamenTonerLite, options = providerTileOptions(noWrap = TRUE))
+        addProviderTiles(providers$Esri.WorldPhysical, options = providerTileOptions(noWrap = TRUE))
     })
     
     # Update the value in the value boxes to display the route information
